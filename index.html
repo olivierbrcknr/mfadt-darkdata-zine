@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<script type="text/javascript">
+  // add links
+  document.addEventListener("DOMContentLoaded", function(){
+    smoothScroll();
+  });
+</script>
+
+<div class="articleList">
+
+  {% for article in site.articles %}
+
+    <h2>
+      {{ article.title }}
+    </h2>
+    <p>
+      {{ article.date | date: "%Y" }}
+    </p>
+
+    {% if article.desc %}
+      <p> — {{ article.desc | markdownify }}</p>
+    {% endif %}
+
+  {% endfor %}
+
+</div>
+
+{% include footer.html %}

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% include nav.html %}
+
+<article>
+  <h1>
+    {{ page.title }}
+    <div class="date">
+      [{{ page.date | date: "%Y" }}]
+    </div>
+  </h1>
+
+  {{ content |  remove: page.excerpt }}
+
+</article>
+
+{% include footer.html %}
