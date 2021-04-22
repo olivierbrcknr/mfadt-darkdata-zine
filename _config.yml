@@ -14,13 +14,8 @@ kramdown:
   html_to_native: true
   syntax_highlighter: rouge
 
-collections:
-  articles:
-    permalink: :title
-    output: true
-
 defaults:
   - scope:
-      type: "articles"
+      type: "posts"
     values:
       layout: "article"

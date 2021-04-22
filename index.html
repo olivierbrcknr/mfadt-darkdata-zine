@@ -22,41 +22,48 @@ layout: default
   </p>
 </div>
 
-<div class="categoryDrawer">
 
-  <div class="drawerButton">
+{% for category in site.categories %}
+  <div class="categoryDrawer">
 
-      <div class="number">
-        1
-      </div>
-      <div class="name">
-        Category (A)
-      </div>
-      <div class="icon">
-        +
-      </div>
+    <div class="drawerButton">
+
+        <div class="number">
+          {{ forloop.index }}
+        </div>
+        <div class="name">
+          Category ({{ category[0] }})
+        </div>
+        <div class="icon">
+          +
+        </div>
+
+    </div>
+
+    <div class="drawerContent">
+
+      {% for article in category[1] %}
+
+        <a href="{{ article.url }}">
+
+          <h2>
+            {{ article.title }}
+          </h2>
+          <p>
+            {{ article.date | date: "%Y" }}
+          </p>
+
+          {% if article.desc %}
+            <p> — {{ article.desc | markdownify }}</p>
+          {% endif %}
+
+        </a>
+
+      {% endfor %}
+
+    </div>
 
   </div>
-
-  <div class="drawerContent">
-
-    {% for article in site.articles %}
-
-      <h2>
-        {{ article.title }}
-      </h2>
-      <p>
-        {{ article.date | date: "%Y" }}
-      </p>
-
-      {% if article.desc %}
-        <p> — {{ article.desc | markdownify }}</p>
-      {% endif %}
-
-    {% endfor %}
-
-  </div>
-
-</div>
+{% endfor %}
 
 {% include footer.html %}
