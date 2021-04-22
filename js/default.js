@@ -18,6 +18,21 @@ let smoothScroll = () => {
   }
 }
 
+let initCategoryDrawers = () =>  {
+  const drawers = document.querySelectorAll(".categoryDrawer");
+
+  for (const drawer of drawers) {
+    drawer.querySelector(".drawerButton").addEventListener("click", ()=>{
+      drawer.classList.toggle('--isOpen')
+    });
+  }
+
+}
+
 document.addEventListener("DOMContentLoaded", function(){
   console.log('DOM ready');
+
+  initCategoryDrawers();
+
+  // smoothScroll();
 });

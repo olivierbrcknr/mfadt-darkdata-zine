@@ -1,0 +1,51 @@
+
+
+.categoryDrawer {
+
+    border-top: solid 3px $color-black;
+
+    .drawerButton {
+
+        border-bottom: solid 3px $color-black;
+        display: flex;
+        font-size: 32px;
+        cursor: pointer;
+        justify-content: space-between;
+        padding: 0 $padding-default;
+
+        .number {
+            width: 20px;
+        }
+        .name {
+            text-transform: lowercase;
+            width: 100%;
+            max-width: $max-width - $padding-default*2;
+        }
+        .icon {
+            width: 20px;
+        }
+
+        &:hover {
+            background-color: $color-highlight;
+            color: $color-white;
+        }
+    }
+
+    .drawerContent {
+        max-height: 0;
+        overflow-y: hidden;
+        transition: max-height 0.5s;
+    }
+
+
+    &.--isOpen {
+
+        .drawerButton {
+            background-color: $color-highlight;
+            color: $color-white;
+        }
+        .drawerContent {
+            max-height: 1000px;
+        }
+    }
+}

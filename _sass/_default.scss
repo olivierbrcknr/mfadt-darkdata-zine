@@ -5,6 +5,11 @@
   box-sizing: border-box;
 }
 
+::selection {
+  background-color: $color-highlight;
+  color: $color-white;
+}
+
 html {
   font-size: 100%;
   font-family: $font-regular;
@@ -13,4 +18,61 @@ html {
   line-height: 1.8;
   background: $color-bg;
   font-feature-settings: "case", "calt", "liga";
+}
+
+h1 {
+  font-family: $font-serif;
+  font-size: 72px;
+  line-height: 1.2;
+}
+h3 {
+  color: $color-highlight;
+  display: flex;
+  align-items: center;
+  font-size: 22px;
+  margin-bottom: 1em;
+
+  &:after {
+    content: '';
+    display: block;
+    background:$color-highlight;
+    height: 2px;
+    width: auto;
+    flex: 1;
+    margin-left: .4em;
+  }
+}
+
+p + p {
+  margin-top: 1em;
+}
+
+a {
+  color: currentColor;
+  text-decoration: none;
+  padding-bottom: 1px;
+  border-bottom: solid 1px currentColor;
+
+  &:hover {
+    border: none;
+  }
+}
+
+#wrapper {
+  padding-top: 100px; // to make up for the navigation bar
+}
+
+.centerBlock {
+  padding: $padding-default;
+  max-width: $max-width;
+  margin: 0 auto;
+}
+
+
+// Mobile adjustments
+
+@media screen and (max-width: $break-mobile) {
+  h1 {
+    font-size: 42px;
+  }
 }

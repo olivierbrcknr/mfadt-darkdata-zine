@@ -2,29 +2,60 @@
 layout: default
 ---
 
-<script type="text/javascript">
-  // add links
-  document.addEventListener("DOMContentLoaded", function(){
-    smoothScroll();
-  });
-</script>
+{% include nav.html %}
 
-<div class="articleList">
+<div class="editorNote centerBlock">
+  <h1>
+    a note from the editors
+  </h1>
+  <h3>
+    Apurv Rayate & Sarah Nichols
+  </h3>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis enim nec justo tempus scelerisque vitae quis est. Donec ac mattis sapien. Morbi maximus accumsan turpis vitae ullamcorper. Nam vel enim in enim euismod bibendum vel finibus felis. Nulla volutpat interdum nibh, vel dignissim mauris tincidunt eget. Suspendisse eleifend ut erat vel commodo. Quisque eu nunc risus. Nam ornare augue non rhoncus tincidunt. In finibus a nisl vel porta. Ut pellentesque, erat nec vehicula varius, lacus diam tempor mi, nec maximus dui sapien sit amet dui. Nunc mauris elit, blandit vitae elit quis, condimentum egestas ex. In fringilla mauris in urna posuere, cursus sagittis purus lacinia. Sed a congue mi.
+  </p>
+  <p>
+    Morbi gravida tortor in tellus lacinia consectetur. Quisque tortor enim, commodo quis urna non, pellentesque aliquam dolor. Donec dui sem, faucibus vitae placerat eu, feugiat eget orci. Praesent eget ultrices mauris. Quisque malesuada urna nulla, at dignissim mi semper at. Cras feugiat at nunc eget luctus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec aliquet metus metus, ac suscipit sapien suscipit vitae. Nunc porta convallis quam, vel vestibulum felis. Vestibulum eget metus varius, congue leo vel, auctor lacus. Sed sed tortor metus. Nam molestie id orci in rhoncus. Nulla tincidunt, sem eu volutpat porttitor, magna ligula aliquam est, eget placerat orci dui scelerisque odio. Donec tincidunt ipsum id massa auctor, vitae sodales lectus elementum. Proin venenatis, dui eu rutrum finibus, nisi sapien porttitor massa, blandit pulvinar felis odio vel tellus.
+  </p>
+  <p>
+    Curabitur sollicitudin ipsum in ipsum scelerisque fringilla. Suspendisse fringilla, urna vitae tincidunt ultricies, arcu ligula tincidunt diam, eget lobortis metus magna molestie purus
+  </p>
+</div>
 
-  {% for article in site.articles %}
+<div class="categoryDrawer">
 
-    <h2>
-      {{ article.title }}
-    </h2>
-    <p>
-      {{ article.date | date: "%Y" }}
-    </p>
+  <div class="drawerButton">
 
-    {% if article.desc %}
-      <p> — {{ article.desc | markdownify }}</p>
-    {% endif %}
+      <div class="number">
+        1
+      </div>
+      <div class="name">
+        Category (A)
+      </div>
+      <div class="icon">
+        +
+      </div>
 
-  {% endfor %}
+  </div>
+
+  <div class="drawerContent">
+
+    {% for article in site.articles %}
+
+      <h2>
+        {{ article.title }}
+      </h2>
+      <p>
+        {{ article.date | date: "%Y" }}
+      </p>
+
+      {% if article.desc %}
+        <p> — {{ article.desc | markdownify }}</p>
+      {% endif %}
+
+    {% endfor %}
+
+  </div>
 
 </div>
 

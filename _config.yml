@@ -1,5 +1,5 @@
 title: Dark Data Zine # Title of site.
-timezone: USA/Berlin
+timezone: America/New_York
 
 sass:
   sass_dir: _sass
