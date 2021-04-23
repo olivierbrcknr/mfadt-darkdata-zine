@@ -1,6 +1,8 @@
 title: Dark Data Zine # Title of site.
 timezone: America/New_York
 
+url: /mfadt-darkdata-zine
+
 sass:
   sass_dir: _sass
   style: :compressed
