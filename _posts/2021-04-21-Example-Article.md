@@ -1,7 +1,7 @@
 ---
-title: Test
+title: Example Article
 desc: A test description
-author: Rayomnd Holt
+author: Raymond Holt
 categories: A
 
 ---
