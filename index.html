@@ -6,7 +6,7 @@ layout: default
 
 <div class="editorNote centerBlock">
   <h1>
-    a note from the editors
+    a note<br/>from the editors
   </h1>
   <h3>
     Apurv Rayate & Sarah Nichols
@@ -23,6 +23,7 @@ layout: default
 </div>
 
 
+<div class="categoryDrawerContainer">
 {% for category in site.categories %}
   <div class="categoryDrawer">
 
@@ -35,27 +36,35 @@ layout: default
           Category ({{ category[0] }})
         </div>
         <div class="icon">
-          +
+          <!-- added via css -->
         </div>
 
     </div>
 
     <div class="drawerContent">
 
+      <div class="drawerContent-BorderTop"></div>
+
       {% for article in category[1] %}
 
-        <a href="{{ article.url }}">
+        <a href="{{ article.url }}" class="drawerArticle">
+
+          <div class="drawerArticle-image">
+            <!-- for dummy purposes -->
+          </div>
 
           <h2>
             {{ article.title }}
           </h2>
-          <p>
-            {{ article.date | date: "%Y" }}
-          </p>
+          <h4>
+            by {{ article.author }}
+          </h4>
 
+          <!-- Does not seem to be needed so far
           {% if article.desc %}
             <p> — {{ article.desc | markdownify }}</p>
           {% endif %}
+          -->
 
         </a>
 
@@ -65,5 +74,6 @@ layout: default
 
   </div>
 {% endfor %}
+</div>
 
 {% include footer.html %}

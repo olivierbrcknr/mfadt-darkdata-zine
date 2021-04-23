@@ -3,6 +3,7 @@
 * {
   position: relative;
   box-sizing: border-box;
+  z-index: 2; // Set default to 2 to have the BG at 0
 }
 
 ::selection {
@@ -58,8 +59,29 @@ a {
   }
 }
 
+#backgroundDither {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  z-index: 1;
+  opacity: 0.2;
+  image-rendering: pixelated;
+
+  // background-color: $color-highlight;
+  // background-blend-mode: screen;
+  background-image: url(/assets/img/dither_bg.gif);
+}
+
 #wrapper {
-  padding-top: 100px; // to make up for the navigation bar
+  position: fixed;
+  top: $size-navigation;
+  left: 0;
+  right: 0;
+  height: calc( 100vh - #{$size-navigation} );
+  padding-top: 50px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  // padding-top: 100px; // to make up for the navigation bar
 }
 
 .centerBlock {
@@ -75,4 +97,9 @@ a {
   h1 {
     font-size: 42px;
   }
+}
+
+// DarkMode adjustments
+@media (prefers-color-scheme: dark) {
+  
 }

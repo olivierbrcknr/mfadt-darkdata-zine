@@ -1,9 +1,8 @@
 ---
 title: My great Article
 desc: A test description
-author: 
+author: Jake Peralta
 categories: B
-
 ---
 
 # Test Article

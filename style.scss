@@ -20,8 +20,3 @@
 
 // code higlighting
 @import "highlights";
-
-// include DarkMode
-@media (prefers-color-scheme: dark) {
-  @import "darkMode";
-}

@@ -5,12 +5,14 @@
     right: 0;
     border-bottom: solid 3px $color-black;
     z-index: 10;
-    background: $color-bg;
+    // background: $color-bg;
+    height: $size-navigation;
 
     .inner {
         display: flex;
         justify-content: space-between;
         padding: 0 $padding-default;
+        height: 100%;
 
         .site-name {
             border: none;
@@ -19,11 +21,17 @@
             -webkit-text-stroke-color: $color-black;
             display: flex;
             align-items: center;
-            font-size: 28px;
+            font-size: 32px;
+
+            &:hover {
+                -webkit-text-stroke-color: $color-highlight;
+                color: $color-highlight;
+            }
         }
 
         ul {
             display: flex;
+            height: 100%;
 
             li {
 

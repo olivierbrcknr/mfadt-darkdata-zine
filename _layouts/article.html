@@ -7,10 +7,10 @@ layout: default
 <article class="centerBlock">
   <h1>
     {{ page.title }}
-    <div class="date">
-      [{{ page.date | date: "%Y" }}]
-    </div>
   </h1>
+  <h3>
+    written by {{ page.author }}
+  </h3>
 
   {{ content |  remove: page.excerpt }}
 
