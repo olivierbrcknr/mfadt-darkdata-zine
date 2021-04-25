@@ -1,5 +1,5 @@
 @mixin title ($color: $color-black) {
-  font-family: "Minipax" serif;
+  font-family: "Minipax", serif;
   font-weight: 700;
   font-size: 8.75rem;
   letter-spacing: 0.02em;
@@ -7,28 +7,28 @@
 }
 
 @mixin byline ($color: $color-highlight) {
-  font-family: "Space Grotesk" sans-serif;
+  font-family: "Space Grotesk", sans-serif;
   font-weight: 400;
   font-size: 3.125rem;
   color: $color;
 }
 
 @mixin body ($color: $color-black) {
-  font-family: "Space Grotesk" sans-serif;
+  font-family: "Space Grotesk", sans-serif;
   font-weight: 400;
   font-size: 2.5rem;
   color: $color;
 }
 
 @mixin category ($color: $color-black) {
-  font-family: "Space Grotesk" sans-serif;
+  font-family: "Space Grotesk", sans-serif;
   font-weight: 700;
   font-size: 6.25rem;
   color: $color;
 }
 
 @mixin nav-link ($color: $color-black) {
-  font-family: "Space Grotesk" sans-serif;
+  font-family: "Space Grotesk", sans-serif;
   font-weight: 400;
   font-size: 2.5rem;
   color: $color;
