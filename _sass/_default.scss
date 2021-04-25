@@ -13,7 +13,8 @@
 
 html {
   font-size: 100%;
-  font-family: $font-regular;
+  font-family: "Space Grotesk";
+  // font-family: $font-regular;
   color: $color-font-reg;
   font-size: 16px;
   line-height: 1.8;
@@ -21,17 +22,23 @@ html {
   font-feature-settings: "case", "calt", "liga";
 }
 
+//h1 -> article title
 h1 {
-  font-family: $font-serif;
-  font-size: 72px;
-  line-height: 1.2;
+  // font-family: $font-serif;
+  // font-size: 72px;
+  // line-height: 1.2;
+  @include title;
 }
+
+//h3 -> article byline;
 h3 {
-  color: $color-highlight;
-  display: flex;
-  align-items: center;
-  font-size: 22px;
+
+  // color: $color-highlight;
+  // display: flex;
+  // align-items: center;
+  @include byline;
   margin-bottom: 1em;
+  // font-size: 22px;
 
   &:after {
     content: '';
@@ -42,6 +49,11 @@ h3 {
     flex: 1;
     margin-left: .4em;
   }
+}
+
+//p -> article body
+p {
+  @include body;
 }
 
 p + p {
