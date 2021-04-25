@@ -6,7 +6,7 @@
   color: $color;
 }
 
-@mixin byline ($color: $color-black) {
+@mixin byline ($color: $color-highlight) {
   font-family: "Space Grotesk" sans-serif;
   font-weight: 400;
   font-size: 3.125rem;
