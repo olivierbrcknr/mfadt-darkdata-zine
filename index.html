@@ -4,7 +4,7 @@ layout: default
 
 {% include nav.html %}
 
-<div class="editorNote centerBlock">
+<article class="editorNote centerBlock">
   <h1>
     a note from<br/> the editors
   </h1>
@@ -20,60 +20,8 @@ layout: default
   <p>
     Curabitur sollicitudin ipsum in ipsum scelerisque fringilla. Suspendisse fringilla, urna vitae tincidunt ultricies, arcu ligula tincidunt diam, eget lobortis metus magna molestie purus
   </p>
-</div>
+</article>
 
-
-<div class="categoryDrawerContainer">
-{% for category in site.categories %}
-  <div class="categoryDrawer">
-
-    <div class="drawerButton">
-
-        <div class="number">
-          {{ forloop.index }}
-        </div>
-        <div class="name">
-          Category ({{ category[0] }})
-        </div>
-        <div class="icon">
-          <!-- added via css -->
-        </div>
-
-    </div>
-
-    <div class="drawerContent">
-
-      <div class="drawerContent-BorderTop"></div>
-
-      {% for article in category[1] %}
-
-        <a href="{{ site.baseurl }}{{ article.url }}" class="drawerArticle">
-
-          <div class="drawerArticle-image">
-            <!-- for dummy purposes -->
-          </div>
-
-          <h2>
-            {{ article.title }}
-          </h2>
-          <h4>
-            by {{ article.author }}
-          </h4>
-
-          <!-- Does not seem to be needed so far
-          {% if article.desc %}
-            <p> — {{ article.desc | markdownify }}</p>
-          {% endif %}
-          -->
-
-        </a>
-
-      {% endfor %}
-
-    </div>
-
-  </div>
-{% endfor %}
-</div>
+{% include categoryDrawer.html %}
 
 {% include footer.html %}

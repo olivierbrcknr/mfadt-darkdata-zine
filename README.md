@@ -4,7 +4,7 @@ This is the zine repository for the Spring 2021 class "Dark Data" by [David Carr
 
 ## Articles and Contributors
 
-* [Example Article](_posts/2021-04-21-Example-Article.md) by Raymond Holt
+* [I Have Nothing to Hide](_posts/2021-04-28-I-Have-Nothing-to-Hide.md) by Salil Parekh
 
 ## Adding an article
 
@@ -35,7 +35,7 @@ Add notes to your articles, where we should add imagery, videos, or any other co
 
 ### Images / Media
 
-Please send any media that should be added to [this](https://drive.google.com/drive/u/1/folders/1q3ckAzY_FX47nugpO1tKoXm76scEKPOh) folder (a New School account is required). We will adapt them and add them to your article. 
+Please send any media that should be added to [this](https://drive.google.com/drive/u/1/folders/1KHaBLT8nj9Xuky0CErDFeoablLKt9qsI) folder (a New School account is required). We will adapt them and add them to your article. 
 
 ### Special content, e.g., interactive components
 

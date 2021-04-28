@@ -12,14 +12,8 @@
 }
 
 html {
-  font-size: 100%;
-  font-family: "Space Grotesk";
-  // font-family: $font-regular;
-  color: $color-font-reg;
-  font-size: $font-size-default;
-  line-height: 1.8;
+  @include body( $color-font-reg );
   background: $color-bg;
-  font-feature-settings: "case", "calt", "liga";
 }
 
 //h1 -> article title
@@ -52,9 +46,16 @@ h3 {
   }
 }
 
+// E.g. references
+h5 {
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 0.4rem
+}
+
 //p -> article body
 p {
-  @include body;
+  
 }
 
 p + p {

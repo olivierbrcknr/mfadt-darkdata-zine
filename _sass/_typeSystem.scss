@@ -5,6 +5,10 @@
   letter-spacing: 0.02em;
   line-height: 1em;
   color: $color;
+
+  @media screen and (max-width: $break-mobile ) {
+    font-size: 2rem;
+  }
 }
 
 @mixin byline ($color: $color-highlight) {
@@ -12,33 +16,56 @@
   font-weight: 400;
   font-size: 1.25rem;
   color: $color;
+  @media screen and (max-width: $break-mobile ) {
+    font-size: 1rem;
+  }
+
 }
 
+// aka overall main font
 @mixin body ($color: $color-black) {
   font-family: $font-regular;
   font-weight: 400;
-  font-size: 1rem; // 1 rem == body size
+  font-size: $font-size-default; // 1 rem == body size
+  line-height: 1.8;
   color: $color;
+  font-feature-settings: "case", "calt", "liga";
+
+  @media screen and (max-width: $break-mobile ) {
+    font-size: $font-size-mobile;
+  }
 }
 
 @mixin smallText ($color: $color-black) {
   font-family: $font-regular;
   font-weight: 400;
-  font-size: 0.875rem;
+  font-size: 0.6rem;
   color: $color;
-}
 
+  @media screen and (max-width: $break-mobile ) {
+    font-size: 0.8rem;
+  }
+}
 
 @mixin category ($color: $color-black) {
   font-family: $font-regular;
   font-weight: 700;
   font-size: 2.5rem;
   color: $color;
+
+  @media screen and (max-width: $break-mobile ) {
+    font-size: 1.5rem;
+  }
 }
 
-@mixin nav-link ($color: $color-black) {
-  font-family: $font-regular;
-  font-weight: 400;
-  font-size: 2.5rem;
-  color: $color;
-}
+// ???
+// @mixin nav-link ($color: $color-black) {
+//   font-family: $font-regular;
+//   font-weight: 400;
+//   font-size: 2.5rem;
+//   color: $color;
+
+//   @media screen and (max-width: $break-mobile ) {
+//     font-size: 1.5rem;
+//   }
+// }

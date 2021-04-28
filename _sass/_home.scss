@@ -1,16 +1,5 @@
 // For the landing page
 
 .editorNote {
-    margin-bottom: 50px;
-
-    h1 {
-        // font-size: 100px;
-        &::first-line {
-            text-align: right;
-        }
-
-        @media screen and (max-width: $break-mobile ) {
-            font-size: 42px;
-        }
-    }
+   
 }
