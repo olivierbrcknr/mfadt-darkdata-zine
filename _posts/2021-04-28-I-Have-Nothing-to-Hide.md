@@ -2,7 +2,7 @@
 title: I Have Nothing to Hide
 desc: A test description
 author: Salil Parekh
-categories: A
+categories: ["Dark Connections"]
 
 ---
 

@@ -1,18 +1,24 @@
 // Important for syntax highlight
 
 pre.highlight {
-  background: lighten( $color-font-reg, 85% );
-  border-radius: 2px;
+  @include code;
+  background: lighten( $color-font-reg, 90% );
   padding: $padding-default;
   font-variant-ligatures: none;
+  font-size: 0.8rem;
+
+  code {
+    background: none;
+    tab-size: 2em;
+
+  }
 }
 
 code {
-  font-family: $font-mono;
-  background: lighten( $color-font-reg, 80% );
-  border-radius: 2px;
+  @include code;
+
+  background: lighten( $color-font-reg, 90% );
   padding: 0px 4px;
-  font-size: 0.85em;
 }
 
 .highlight .c { color: #586E75 } /* Comment */

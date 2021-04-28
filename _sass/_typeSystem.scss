@@ -11,6 +11,15 @@
   }
 }
 
+@mixin sectionTitle ($color: $color-black) {
+  font-family: $font-regular;
+  font-weight: 700;
+  font-size: 1.5rem;
+  letter-spacing: 0.02em;
+  line-height: 1em;
+  color: $color;
+}
+
 @mixin byline ($color: $color-highlight) {
   font-family: $font-regular;
   font-weight: 400;
@@ -69,3 +78,8 @@
 //     font-size: 1.5rem;
 //   }
 // }
+
+@mixin code () {
+  font-family: $font-mono;
+  font-weight: 400;
+}

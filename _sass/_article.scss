@@ -28,4 +28,9 @@ article {
         list-style-type: decimal-leading-zero;
     }
 
+    .footnotes {
+        margin-top: 2rem;
+        @include smallText;
+    }
+
 }
