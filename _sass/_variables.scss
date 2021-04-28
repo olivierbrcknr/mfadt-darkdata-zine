@@ -1,22 +1,25 @@
-// Import Fonts
+// Fonts
+$font-mono: monospace;
+$font-regular: "Space Grotesk", sans-serif;
+$font-highlight: "Minipax", serif;
 
 // Colors
 $color-black: #000;
 $color-white: #FFF;
-$color-highlight: #3424F0;
+$color-highlight: #CD2020;
 
 
 // Colors — Light Mode
 $color-bg: $color-white;
-
 $color-font-reg: $color-black;
 
 // Colors — Dark Mode
 $color-dm-bg: $color-black;
-
 $color-dm-font-reg: $color-white;
 
 // Sizes
+$font-size-default: 22px;  // 1 rem
+
 $padding-default: 10px;
 $size-navigation: 56px;
 
@@ -24,5 +27,3 @@ $max-width: 860px;
 
 // breaks
 $break-mobile: 719px; // mobile
-
-$font-mono: monospace;

@@ -4,8 +4,8 @@ footer {
         border-top: solid 2px $color-black;
         display: flex;
         justify-content: space-between;
-        font-size: 14px;
-        font-family: $font-mono;
         padding: $padding-default*2 0;
+
+        @include smallText;
     }
 }

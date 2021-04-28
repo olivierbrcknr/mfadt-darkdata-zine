@@ -29,6 +29,7 @@
     .icon {
       min-width: 20px;
       width: auto;
+      color: $color-highlight;
 
       &::before {
         content: "+";
@@ -51,6 +52,9 @@
     &:hover {
       background-color: $color-highlight;
       color: $color-white;
+      .icon {
+        color: currentColor;
+      }
     }
   }
 
@@ -122,8 +126,11 @@
       background-color: $color-highlight;
       color: $color-white;
 
-      .icon::before {
-        transform: rotate(45deg);
+      .icon {
+        color: currentColor;
+        &::before {
+          transform: rotate(45deg);
+        }
       }
     }
     .drawerContent {
