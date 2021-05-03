@@ -33,7 +33,7 @@ let formatArticleHeaders = () => {
   const headers = document.querySelectorAll("h1");
   headers.forEach(header => {
     const words = header.innerText.replace(/\n/, " ").split(" ")
-    const medianIndex = txt.length / 2
+    const medianIndex = header.innerText.length / 2
     const splitIndex = Math.floor(words.length / 2)
     const set1 = words.slice(0, splitIndex);
     const set2 = words.slice(splitIndex);
