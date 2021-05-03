@@ -1,3 +1,4 @@
+
 <nav>
   <div class="nav-bg"></div>
 
@@ -18,16 +19,15 @@
         <a href="#about">About</a>
       </li>
     </ul>
-    <button class="nav-menu-btn">
-      <span class="icon">
-        <span></span>
-        <span></span>
-        <span></span>
-      </span>
-    </button>
+    <button class="nav-menu-btn"></button>
   </div>
 
   <div class="nav-menu">
+    <div class="menu-top">
+      <a href="{{ site.baseurl }}/" class="site-name"> Dark Data </a>
+      <button class="nav-close-btn"></button>
+    </div>
+
     <div class="nav-menu-links">
       <a href="{{ site.baseurl }}">introduction</a>
       {% for category in site.categories %}

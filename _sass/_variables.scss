@@ -8,6 +8,8 @@ $color-black: #000;
 $color-white: #FFF;
 $color-highlight: #CD2020;
 $color-gray: #989898;
+$color-highlight-filter: invert(18%) sepia(63%) saturate(3977%) hue-rotate(350deg) brightness(98%) contrast(94%);
+$color-highlight-filter-white: invert(100%) invert(18%) sepia(63%) saturate(3977%) hue-rotate(350deg) brightness(98%) contrast(94%);
 
 
 // Colors — Light Mode

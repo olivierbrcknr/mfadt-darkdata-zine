@@ -89,6 +89,7 @@ const smoothScroll = () => {
 const initMobileMenu = () => {
   const nav = document.querySelector("nav")
   const navMenuButton = document.querySelector(".nav-menu-btn")
+  const navCloseButton = document.querySelector(".nav-close-btn")
   const navMenu = document.querySelector(".nav-menu")
   const navLinks = document.querySelectorAll(".nav-menu-links a")
 
@@ -98,6 +99,7 @@ const initMobileMenu = () => {
   }
 
   navMenuButton.addEventListener("click", toggleMenu)
+  navCloseButton.addEventListener("click", toggleMenu)
   navLinks.forEach(link => link.addEventListener("click", toggleMenu))
 }
 
