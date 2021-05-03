@@ -123,6 +123,10 @@ table {
   margin: 0 auto;
 }
 
+.aboutText {
+  padding: 3rem $padding-default;
+}
+
 
 // Mobile adjustments
 @media screen and (max-width: $break-mobile) {

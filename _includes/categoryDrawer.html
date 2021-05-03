@@ -1,5 +1,10 @@
+{% assign totalIndex = 1 %}
+
 <div class="categoryDrawerContainer">
     {% for category in site.categories %}
+
+    {% assign totalIndex = totalIndex | plus:1 %}
+
       <div class="categoryDrawer">
     
         <div class="drawerButton">
@@ -19,34 +24,97 @@
         <div class="drawerContent">
     
           <div class="drawerContent-BorderTop"></div>
+
+          <div class="centerBlock categoryDescription">
+            {% case category[0] %}
+              {% when "Digital Forensics" %}
+                
+                Description for Digital Forensics
+
+              {% when "Dark Connections" %}
+                
+                Description for Dark Connections
+
+              {% when "Data Futures" %}
+                
+                Description for Data Futures
+
+              {% else %}
+
+                This one does not have a decription
+            
+              {% endcase %}
+          </div>
     
-          {% for article in category[1] %}
-    
-            <a href="{{ site.baseurl }}{{ article.url }}" class="drawerArticle">
-    
-              <div class="drawerArticle-image">
-                <!-- for dummy purposes -->
-              </div>
-    
-              <h2>
-                {{ article.title }}
-              </h2>
-              <h4>
-                by {{ article.author }}
-              </h4>
-    
-              <!-- Does not seem to be needed so far
-              {% if article.desc %}
-                <p> — {{ article.desc | markdownify }}</p>
-              {% endif %}
-              -->
-    
-            </a>
-    
-          {% endfor %}
+          <div class="drawerContent-Articles">
+
+            {% for article in category[1] %}
+      
+              <a href="{{ site.baseurl }}{{ article.url }}" class="drawerArticle">
+      
+                <div class="drawerArticle-image">
+                  <!-- for dummy purposes -->
+                  {% if article.image %}
+                    <img src="{{ site.baseurl }}/assets/img/{{ article.image }}">
+                  {% else %}
+                    <img src="{{ site.baseurl }}/assets/img/dither_bg.gif">
+                  {% endif %}
+                </div>
+      
+                <h2>
+                  {{ article.title }}
+                </h2>
+                <h4>
+                  by {{ article.author }}
+                </h4>
+      
+                <!-- Does not seem to be needed so far
+                {% if article.desc %}
+                  <p> — {{ article.desc | markdownify }}</p>
+                {% endif %}
+                -->
+      
+              </a>
+      
+            {% endfor %}
+          </div>
     
         </div>
     
       </div>
     {% endfor %}
+
+    <!-- Add drawer for "About" -->
+
+    <div class="categoryDrawer">
+    
+      <div class="drawerButton">
+  
+          <div class="number">
+            {{ totalIndex }}
+          </div>
+          <div class="name">
+            About
+          </div>
+          <div class="icon">
+            <!-- added via css -->
+          </div>
+  
+      </div>
+  
+      <div class="drawerContent">
+  
+        <div class="drawerContent-BorderTop"></div>
+  
+        <div class="centerBlock aboutText">
+          
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident consequuntur quod culpa dolorum perferendis distinctio, atque quas quae architecto nobis ducimus doloremque neque voluptatum veniam qui eaque tempore quasi tempora!
+          </p>
+        
+        </div>
+  
+      </div>
+  
+    </div>
 </div>

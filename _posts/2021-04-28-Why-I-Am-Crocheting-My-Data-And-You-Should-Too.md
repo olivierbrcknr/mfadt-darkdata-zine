@@ -1,5 +1,5 @@
 ---
-title:Why I am crocheting my data and you should too
+title: Why I am crocheting my data and you should too
 desc: Examining non-digital encryption the benefits and the history
 author: Michelle Nee
 categories: ["Data Futures"]

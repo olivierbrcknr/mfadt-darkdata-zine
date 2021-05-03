@@ -2,7 +2,7 @@
 title: Intimate Data Violence
 desc: Stalkerware and its Menacing Role in Intimate Partner Violence During the COVID-19 Era.
 author: Malath Kamaluldeen
-categories:["Digital Forensics"]
+categories: ["Digital Forensics"]
 ---
 ## Stalkerware in My Personal Life
 

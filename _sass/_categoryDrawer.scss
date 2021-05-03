@@ -9,8 +9,6 @@
   }
 
   .drawerButton {
-    // border-bottom: solid 3px $color-black;
-    // font-size: 32px;
     @include category;
     display: flex;
     cursor: pointer;
@@ -22,7 +20,7 @@
       width: auto;
     }
     .name {
-      text-transform: lowercase;
+      // text-transform: lowercase;
       width: 100%;
       max-width: $max-width - $padding-default * 2;
     }
@@ -62,10 +60,6 @@
     max-height: 0px;
     overflow-y: hidden;
     transition: max-height 0.5s;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    align-items: flex-start;
 
     .drawerContent-BorderTop {
       border-top: solid 3px $color-black;
@@ -75,47 +69,88 @@
       right: 0;
     }
 
-    .drawerArticle {
-      border: none;
-      display: block;
-      min-width: 360px;
-      max-width: 480px;
-      width: 33%;
-      padding: $padding-default * 2;
-      margin: 20px 0;
-      flex-shrink: 0;
+    .categoryDescription {
+      padding: 1rem $padding-default;
+      width: 100%;
+    }
 
-      @media screen and (max-width: $break-mobile) {
-        width: 50%;
-        margin: 0;
-        margin-top: 10px;
-        min-width: initial;
-        padding: $padding-default;
-      }
+    .drawerContent-Articles {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      align-items: flex-start;
 
-      .drawerArticle-image {
-        width: 100%;
-        background-color: $color-highlight;
+      .drawerArticle {
+        border: none;
+        display: block;
+        min-width: 360px;
+        max-width: 480px;
+        width: 33%;
+        padding: $padding-default * 2;
+        margin: 20px 0;
+        flex-shrink: 0;
 
-        &::before {
-          // Add aspect ratio 4:3
-          content: "";
-          display: block;
-          padding-top: 75%;
+        @media screen and (max-width: $break-mobile) {
+          width: 50%;
+          margin: 0;
+          margin-top: 10px;
+          min-width: initial;
+          padding: $padding-default;
         }
-      }
 
-      h2 {
-        @include body;
-        font-weight: bold;
-      }
-      h4 {
-        @include body;
-      }
-
-      &:hover {
         .drawerArticle-image {
-          background-color: $color-black;
+          width: 100%;
+          // background: url(assets/img/dither_bg.gif);
+          // background-size: cover;
+
+          &::before {
+            // Add aspect ratio 4:3
+            content: "";
+            display: block;
+            padding-top: 75%;
+          }
+          &::after {
+            content: '';
+            display: none;
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            mix-blend-mode: screen;
+            background: $color-highlight;
+            z-index: 5;
+          }
+
+          img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+          }
+        }
+
+        h2 {
+          @include body;
+          font-weight: bold;
+          margin: 0;
+          margin-top: 0.5rem;
+          line-height: 1.4;
+        }
+        h4 {
+          @include body;
+          margin: 0;
+          line-height: 1.4;
+        }
+
+        &:hover {
+          .drawerArticle-image::after {
+            display: block;
+          }
         }
       }
     }

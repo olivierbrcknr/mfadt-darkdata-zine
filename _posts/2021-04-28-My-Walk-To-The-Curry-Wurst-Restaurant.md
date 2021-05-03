@@ -3,6 +3,7 @@ title: My Walk To The Curry Wurst Restaurant
 desc: An experiment to see what our smartphones are actually sensing.
 author: Olivier Brückner
 categories: ["Digital Forensics"]
+image: "curryWurst/map.jpg"
 ---
 
 We have it always with us, the tiny computer in our pockets: the smartphone. It is this piece of wonder, which lets us communicate with anyone around the world, playing interactive games, measuring our apartment without needing a measuring tape, or taking incredible pictures. It is increasingly implemented in our day-to-day, helping us in every aspect of our life. Since its release in 2007, displays sharpened, cameras improved and multiplied, and new sensors added, such as a LiDAR sensor which can 3D scan your surroundings. Improvements enable new apps to arise, anticipating every little step we are taking to make our lives as easy as possible.
