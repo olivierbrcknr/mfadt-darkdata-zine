@@ -106,14 +106,14 @@ table {
 }
 
 #wrapper {
-  position: fixed;
+  // position: fixed;
   top: $size-navigation;
   left: 0;
   right: 0;
-  height: calc( 100vh - #{$size-navigation} );
+  // height: calc( 100vh - #{$size-navigation} );
   padding-top: 50px;
-  overflow-x: hidden;
-  overflow-y: scroll;
+  // overflow-x: hidden;
+  // overflow-y: scroll;
   // padding-top: 100px; // to make up for the navigation bar
 }
 

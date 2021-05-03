@@ -1,24 +1,4 @@
-let smoothScroll = () => {
-  const links = document.querySelectorAll("nav a");
-
-  for (const link of links) {
-    link.addEventListener("click", clickHandler);
-  }
-
-  function clickHandler(e) {
-    e.preventDefault();
-    const href = this.getAttribute("href");
-    let offsetTop = document.querySelector(href).offsetTop;
-    offsetTop -= 20;
-
-    scroll({
-      top: offsetTop,
-      behavior: "smooth"
-    });
-  }
-}
-
-let initCategoryDrawers = () =>  {
+const initCategoryDrawers = () =>  {
   const drawers = document.querySelectorAll(".categoryDrawer");
 
   for (const drawer of drawers) {
@@ -29,7 +9,7 @@ let initCategoryDrawers = () =>  {
 }
 
 
-let formatArticleHeaders = () => {
+const formatArticleHeaders = () => {
   const headers = document.querySelectorAll("h1");
   headers.forEach(header => {
     const words = header.innerText.replace(/\n/, " ").split(" ")
@@ -49,6 +29,46 @@ let formatArticleHeaders = () => {
     header.innerHTML = formattedHTML
   })
 }
+
+const smoothScroll = () => {
+
+  const wrapper = document.querySelector('#wrapper');
+
+  console.log( 'smoothscroll init' )
+
+  const clickHandler = (e) => {
+
+    console.log( "click" )
+
+    e.preventDefault();
+    const href = e.target.getAttribute("href");
+    const drawer = document.querySelector(href);
+
+    drawer.classList.add('--isOpen')
+
+    setTimeout(()=>{
+
+      let offsetTop = drawer.getBoundingClientRect().top + window.scrollY;
+      offsetTop -= 56 - 3; // height of navBar - border
+
+      window.scrollTo({
+        top: offsetTop,
+        behavior: "smooth"
+      });
+      
+    }, 210)
+  }
+
+  const links = document.querySelectorAll("#nav a");
+
+  for (const link of links) {
+    // only add smoothscroll if has an anchor
+    if( link.getAttribute("href").includes('#') ){
+      link.addEventListener("click", clickHandler);
+    }
+  }
+}
+
 
 document.addEventListener("DOMContentLoaded", function(){
 

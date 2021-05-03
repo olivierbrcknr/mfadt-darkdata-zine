@@ -1,5 +1,8 @@
 <header id="nav">
-  <div class="inner centerBlock">
+
+  <div class="nav-bg"></div>
+
+  <div class="inner">
 
     <a href="{{ site.baseurl }}/" class="site-name">
       Dark Data
@@ -9,17 +12,18 @@
       <li>
         <a href="{{ site.baseurl }}">introduction</a>
       </li>
+      
+      {% for category in site.categories %}
+
+        <li>
+          <a href="#{{ category[0] | slugify }}">{{ category[0] }}</a>
+        </li>
+
+      {% endfor %}
+
+
       <li>
-        <a>category a</a>
-      </li>
-      <li>
-        <a>category b</a>
-      </li>
-      <li>
-        <a>category c</a>
-      </li>
-      <li>
-        <a href="{{ site.baseurl }}/pages/about">about</a>
+        <a href="#about">About</a>
       </li>
     </ul>
 

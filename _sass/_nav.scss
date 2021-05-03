@@ -5,14 +5,17 @@
     right: 0;
     border-bottom: solid 3px $color-black;
     z-index: 10;
-    // background: $color-bg;
+    background: $color-bg;
     height: $size-navigation;
+    overflow: hidden;
+
 
     .inner {
         display: flex;
         justify-content: space-between;
         padding: 0 $padding-default;
         height: 100%;
+        z-index: 9;
 
         .site-name {
             border: none;
@@ -52,11 +55,25 @@
             }
         }
     }
+    .nav-bg {
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        position: absolute;
+        z-index: 8;
+        opacity: 0.2;
+        image-rendering: pixelated;
+      
+        // background-color: $color-highlight;
+        // background-blend-mode: screen;
+        background-image: url(assets/img/dither_bg.gif);
+      }
 }
 
 // Mobile adjustments
 
-@media screen and (max-width: $max-width) {
+@media screen and (max-width: 960px) { // breakpoint for all elements
     #nav {
         .inner {
             ul {

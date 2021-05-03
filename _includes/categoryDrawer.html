@@ -5,7 +5,7 @@
 
     {% assign totalIndex = totalIndex | plus:1 %}
 
-      <div class="categoryDrawer">
+      <div class="categoryDrawer" id="{{ category[0] | slugify }}">
     
         <div class="drawerButton">
     
@@ -86,7 +86,7 @@
 
     <!-- Add drawer for "About" -->
 
-    <div class="categoryDrawer">
+    <div class="categoryDrawer" id="about">
     
       <div class="drawerButton">
   
