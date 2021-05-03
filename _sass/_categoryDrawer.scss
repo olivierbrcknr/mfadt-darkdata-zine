@@ -14,6 +14,7 @@
     cursor: pointer;
     justify-content: space-between;
     padding: 0 $padding-default;
+    padding-left: 2rem;
 
     .number {
       min-width: 20px;
@@ -21,6 +22,7 @@
     }
     .name {
       // text-transform: lowercase;
+      margin-left: 15%;
       width: 100%;
       max-width: $max-width - $padding-default * 2;
     }
@@ -79,26 +81,29 @@
     }
 
     .drawerContent-Articles {
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      align-items: flex-start;
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+      grid-gap: 20px;
+      padding: 1rem;
+      // justify-content: space-between;
+      // flex-wrap: wrap;
+      // align-items: flex-start;
 
       .drawerArticle {
         border: none;
         display: block;
         min-width: 360px;
         max-width: 480px;
-        width: 33%;
+        // width: 33%;
         padding: $padding-default * 2;
-        margin: 20px 0;
-        flex-shrink: 0;
+        // margin: 20px 0;
 
         @media screen and (max-width: $break-mobile) {
-          width: 50%;
+          // width: 50%;
           margin: 0;
-          margin-top: 10px;
-          min-width: initial;
+          // margin-top: 10px;
+          // min-width: initial;
           padding: $padding-default;
         }
 
