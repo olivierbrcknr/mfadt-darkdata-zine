@@ -1,0 +1,75 @@
+---
+title: Local News + Dark Data 
+desc: Reviving and supporting local news is a vital step in broaching the dangerous and growing political divide escalated by rampant misinformation online and off. 
+author: Isabel Anguera
+categories: ["Data Futures"]
+---
+
+## Introduction
+Fake news was deemed word of the year in 2017. Its election brings to light the massive issue of misinformation and the way it lives and grows on the internet. Matched with the digital profiles big data curates on us, our own opinions are reflected back at us, creating a tunnel vision view of the world and politics. This effect, called the echo chamber, pushes the divide between those with opposing profiles, or opinions, until a tipping point is reached and a radical event is the outcome.
+
+However, there is a way to combat this: reviving local journalism. Simply having a local newspaper, digital or physical, can encourage community, open minds to differing opinions, and keep a check on the workings of local governments. Our quick societal shift onto the internet accelerated the empowerment and use of social media as a news service, and drove revenue and audiences away from the sources previously popular. Big tech companies with their hold over digital advertising used that power to put publishers in a tough spot, forcing them to settle for little to no compensation for their work. Local news lost crucial funding, and was left with few options to combat the unfair field they were being forced to play in.
+
+Journatic and Courier are examples of what came next—a pay for play service. Both media sites, funded by political groups, pay for articles that push an agenda, whether it be to deliberately misinform the public, or target negative or positive articles in the direction of a candidate or issue. They pose as hyperlocal news sites, look real, but are self-serving. They play into fulfilling and propagating the echo chamber effect for their own gain and create a more and more radical or extreme targeted feed, while adding to the growing movement to discredit real news. 
+
+## So, What is the Echo Chamber Effect? 
+We don’t truly know why we see the things we do, which is a problem, and when we are presented with what we already believe, we get what’s called confirmation bias, “the tendency to favor info that reinforces existing beliefs” (*Digital Media Literacy: What is an Echo Chamber?*). This is also called and advertised as personalization, which can be helpful and is enjoyed by many, but when it comes to politics and misinformation, it has the potential to create a one dimensional representation of what’s going on in the world. Our clicks feed the algorithms that decide what’s prioritized, but we don’t see how those specifically inform future content that we read. The algorithms are complex and deeply protected—few people understand how they work, and the people influenced by it are often left in the dark. 
+
+Facebook, under pressure to increase transparency into their adtech processes, released a tool they claim does just that. Their [“Off-Facebook Activity”](https://www.facebook.com/off_facebook_activity) page, gives users the ability to see how many third party apps or websites have shared activity information with them but warns that “For technical and accuracy reasons, this list doesn't show all the activity that we've received.” In order to turn activity information off, users must navigate to another page, and when doing so are told that Facebook will “still receive activity from the businesses and organizations you visit” but use it for training purposes disconnected from your account. So essentially, with this ‘great’ transparency tool the only thing you can turn off is the personalization, not the tracking, and the information you do see says nothing to inform users on what kind of activity is being shared, or how it's being used. 
+
+The Markup, in late March started the “Citizen Browser Project” in which they explore the differences between Americans’ Facebook feeds. Their accompanying interactive article [“Split Screen”](https://themarkup.org/citizen-browser/2021/03/11/split-screen?feed=biden_trump) shows snapshots of news articles, suggested groups, and hashtags most found on the feeds of their panelists, or participants, based on who they voted for in the 2020 US election (it can also be split by women vs men, and millennials vs boomers). While hashtags like  #transdayofvisibility and #stopasianhate were mostly shown to those who voted for Biden, hashtags such as #bidenbordercrisis and #biggovsucks were more often what populated the feeds of Trump supporters. The latter also were more often recommended groups to join like “Mark Zuckerberg fan club” and “Corrie Ten Boom-christian literature” compared to “House United in Prayers for Joe Biden and Kamala Harris” and “Friends Who Like Anderson Cooper 360” on the Biden side. Moving through the information, it exemplified the extreme differences between what people see online. Even more concerning is that this is based on data profiles curated based on our activity and information, whether we are aware or not.
+
+## Local Journalism to the Rescue
+So how do we combat the echo chamber effect? The answer lies in local news and journalism. If people understand the workings of their local governments and are active within it, it leads to a deeper knowledge of how this transitions to a larger scale on the federal and national levels. Local news “builds social cohesion, encourages political participation, and improves the efficiency and decision-making of local and state government” (Abernathy). 
+
+Local news means to inform their readers on current events and local happenings, often prioritizing fact-based content. While it can be partisan, its role is also to serve the community and work as a check on the local governments. To keep doing this, however, local news must first survive. News deserts, or communities with no local newspaper, are appearing more and more, leaving the people within those towns with no choice other than to forego reading the news or to search for it online where misinformation and the echo chamber effect are amplified. 
+
+Newspapers, not only on the local level, have struggled to survive as society moved largely online. Paywalls, the digital barriers that tell you you must pay or subscribe to keep reading, have been a way of accommodating their lack of funding, though this brings with it a different set of problems. In his Wired article [“Paywalls, Newsletters, and the New Echo Chamber,"](https://www.wired.com/story/paywalls-newsletters-and-the-new-echo-chamber/?fbclid=IwAR2ERHojo-D5heJHEbV5urZQ5ZK6DPV8qdyx596q-Y37C4tTik_GUm6l0Zs) Mark Hill makes the point that these paywalls are restricting broader access to news for those who can’t afford to pay the subscription fees; a new echo chamber is being forged by being forced to choose which news outlets to pay for, if you can afford any at all. Subscriptions become expensive once they start adding up: for more perspectives on an issue or current event, more and more money is required. Hill quotes Damian Radcliffe, a journalism professor at University of Oregon, as he notes two possible outcomes to this effect:
+
+>‘The first is an increased likelihood that some people’s media diets will become narrower, relying on a smaller breadth of [paid] sources,’ Radcliffe wrote. ‘The second scenario is that people who are priced out of news—or who do not see paying for news as a priority—will be pushed towards free news, some of which is more dubious in nature.’ In other words, the news sites that do extensive reporting will be expensive, while the ‘news' sites that churn outrage and spin tales of secret pedophile cabals remain cheap; and the cost of the former could send unsuspecting consumers towards the latter (qtd. Hill).
+
+This is very important to be wary of heading into the future—two companies to note in relation to the ‘news’ Radcliffe talks about are Journatic and Acronym. Both are funding growing networks of digital ‘news’ sites that pose as local newspapers, but are essentially pay for play services funded by partisan groups. In an investigation by the New York Times, conservative-leaning Journatic was found to be paying writers to draft stories based on a script or agenda. Davey Alba and Jack Nicas write that though the sites “do not post information that is outright false, the operation is rooted in deception, eschewing hallmarks of news reporting like fairness and transparency (Alba).” This is the same with Courier, an Acronym owned ‘newspaper’ writing stories with a liberal agenda. If content like this is the only thing available for free, it adds to the already massive problem of misinformation and the first and current example of the echo chamber effect. The more in line an article is with a person’s already influenced stance, whether it be true or not, will be more successful and likely to appear on a timeline. It works for big data too—they see this content and place you deeper into the conservative or liberal leaning box you’re already in—you and your data become more valuable because you can be predicted. 
+
+The different goals of local journalism and what has come to replace it are divergent. We see how big data fails true local journalism and makes it harder for a come back. Extremism is more clickable and profitable for big data than something non-partisan and based in fact. These sites and their parent companies, which aren’t just limited to Acronym and Journatic, are playing into the echo chamber effect, manipulating readers for their own gain, and have been a part of the rapid discreditation of journalism in public eye over the last few years—something that will be hard to come back from. 
+
+## Sustaining Local News 
+Everything so far makes the outlook for local news bleak, but there are strategies that can change this. People are becoming fed up with the amount of misinformation present in their online networks, companies are being pushed to do something about it (i.e [Apple’s new privacy controls](https://www.wired.com/story/ios-app-tracking-transparency-advertising/?redirectURL=https%3A%2F%2Fwww.wired.com%2Fstory%2Fios-app-tracking-transparency-advertising%2F)), and more Information Privacy Acts, akin to those in California and Virginia will hopefully be passed.
+
+Policy has the strongest potential hand to play in supporting local news and tackling the misinformation, echo chamber problems. US Senator Maria Cantwell addresses journalism's need for help in a 2020 report called ["Local Journalism: America's Most Trusted News Sources Threatened."](https://www.cantwell.senate.gov/imo/media/doc/Local%20Journalism%20Report%2010.26.20_430pm.pdf) She points to Google and Facebook specifically, acknowledging the need to loosen their hold through antitrust laws (Cantwell). This focus on the topic of local news within congress is important to have and push for, and when addressing big tech companies, local news must be made a priority and used as an example to show the extent of the damage that big tech has already done. The European Union’s GDPR is an example of a first step, but in order to really make an impact, laws must address this as an infrastructural problem.
+
+Local journalism is worth the fight and reviving and protecting it are essential. It provides a lot and has shaped important aspects of the communities we live in, holding a key that could be influential in bringing back a sense of normalcy to our digital environments. First steps are being taken and people are becoming more aware of the problem. It’s a large scale issue, but the first step, if you can afford it, is to subscribe to your own local paper. 
+
+##### Works Cited
+
+Abernathy, Penny Muse. "Why Local News Matters, and What We Can Do to Save It." *New York 
+State Bar Association.* New York State Bar Association, 24 Jan. 2020. Web. 13 Apr. 2021.
+
+Alba, Davey, and Jack Nicas. "As Local News Dies, a Pay-for-Play Network Rises in Its Place." *The New York Times.* The New York Times, 18 Oct. 2020. Web. 10 Apr. 2021.
+
+Cantwell, Maria. *Local Journalism: America’s Most Trusted News Sources Threatened.* Rep. 
+U.S. Senate Committee on Commerce, Science, and Transportation. Print.
+
+"Digital Media Literacy: What Is an Echo Chamber?" *GCFGlobal.org.* Goodwill Community 
+Foundation, Inc. Web. 14 Apr. 2021.
+
+Edelman, Gilad. "Fake News Gets More Engagement on Facebook-But Only If It's Right-Wing." 
+*Wired.* Conde Nast, 3 Mar. 2021. Web. 13 Apr. 2021.
+
+Hill, Mark. "Paywalls, Newsletters, and the New Echo Chamber." *Wired.* Conde Nast, 12 Dec. 2020. Web. 10 Apr. 2021.
+
+Morris, Sam, and Surya Mattu. "Split Screen: How Different Are Americans' Facebook Feeds? – The Markup." *Split Screen: How Different Are Americans' Facebook Feeds? – The Markup.* Ed. Jill Jaroff and Julia Angwin. The Markup, 1 Jan. 2021. Web. 10 Apr. 2021.
+
+Trejbal, Christian. "U.S. Sen. Maria Cantwell Wants to save Local Newspapers." *The Seattle Times.* The Seattle Times, 02 Nov. 2020. Web. 13 Apr. 2021.
+
+
+
+
+
+
+
+
+
+
+
+
+

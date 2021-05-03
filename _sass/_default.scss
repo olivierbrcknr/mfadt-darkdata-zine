@@ -21,6 +21,7 @@ h1 {
   @include title;
   margin-bottom: 0.2em;
 
+  &:first-line,
   &::first-line {
     text-align: right;
   }
