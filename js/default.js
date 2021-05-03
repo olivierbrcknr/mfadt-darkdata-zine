@@ -1,8 +1,8 @@
-const initCategoryDrawers = () =>  {
+const initCategoryDrawers = () => {
   const drawers = document.querySelectorAll(".categoryDrawer");
 
   for (const drawer of drawers) {
-    drawer.querySelector(".drawerButton").addEventListener("click", ()=>{
+    drawer.querySelector(".drawerButton").addEventListener("click", () => {
       drawer.classList.toggle('--isOpen')
     });
   }
@@ -32,13 +32,7 @@ const formatArticleHeaders = () => {
 
 const smoothScroll = () => {
 
-  const wrapper = document.querySelector('#wrapper');
-
-  console.log( 'smoothscroll init' )
-
   const clickHandler = (e) => {
-
-    console.log( "click" )
 
     e.preventDefault();
     const href = e.target.getAttribute("href");
@@ -46,7 +40,7 @@ const smoothScroll = () => {
 
     drawer.classList.add('--isOpen')
 
-    setTimeout(()=>{
+    setTimeout(() => {
 
       let offsetTop = drawer.getBoundingClientRect().top + window.scrollY;
       offsetTop -= 56 - 3; // height of navBar - border
@@ -55,26 +49,44 @@ const smoothScroll = () => {
         top: offsetTop,
         behavior: "smooth"
       });
-      
+
     }, 210)
   }
 
-  const links = document.querySelectorAll("#nav a");
+  const links = document.querySelectorAll("nav a");
 
   for (const link of links) {
     // only add smoothscroll if has an anchor
-    if( link.getAttribute("href").includes('#') ){
+    if (link.getAttribute("href").includes('#')) {
       link.addEventListener("click", clickHandler);
     }
   }
 }
 
+const initMobileMenu = () => {
+  const nav = document.querySelector("nav")
+  const navMenuButton = document.querySelector(".nav-menu-btn")
+  const navMenu = document.querySelector(".nav-menu")
+  const navLinks = document.querySelectorAll(".nav-menu-links a")
 
-document.addEventListener("DOMContentLoaded", function(){
+  const toggleMenu = () => {
+    nav.classList.toggle("--isOpen")
+    navMenu.classList.toggle("--isOpen")
+  }
+
+  navMenuButton.addEventListener("click", toggleMenu)
+  navLinks.forEach(link => link.addEventListener("click", toggleMenu))
+}
+
+
+
+document.addEventListener("DOMContentLoaded", function () {
 
   initCategoryDrawers();
 
   smoothScroll();
-  
+
   formatArticleHeaders();
+
+  initMobileMenu();
 });

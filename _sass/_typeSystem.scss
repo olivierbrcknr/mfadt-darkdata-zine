@@ -1,20 +1,20 @@
 @mixin title ($color: $color-black) {
   font-family: $font-highlight;
   font-weight: 700;
-  font-size: 3.5rem;
+  font-size: 3.5em;
   letter-spacing: 0.02em;
   line-height: 1em;
   color: $color;
 
   @media screen and (max-width: $break-mobile ) {
-    font-size: 2rem;
+    font-size: 2em;
   }
 }
 
 @mixin sectionTitle ($color: $color-black) {
   font-family: $font-regular;
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: 1.5em;
   letter-spacing: 0.02em;
   line-height: 1em;
   color: $color;
@@ -23,10 +23,10 @@
 @mixin byline ($color: $color-highlight) {
   font-family: $font-regular;
   font-weight: 400;
-  font-size: 1.25rem;
+  font-size: 1.25em;
   color: $color;
   @media screen and (max-width: $break-mobile ) {
-    font-size: 1rem;
+    font-size: 1em;
   }
 
 }
@@ -48,36 +48,38 @@
 @mixin smallText ($color: $color-black) {
   font-family: $font-regular;
   font-weight: 400;
-  font-size: 0.6rem;
+  font-size: 0.6em;
   color: $color;
 
   @media screen and (max-width: $break-mobile ) {
-    font-size: 0.8rem;
+    font-size: 0.8em;
   }
 }
 
 @mixin category ($color: $color-black) {
   font-family: $font-regular;
   font-weight: 700;
-  font-size: 2.5rem;
+  font-size: 2.5em;
   color: $color;
 
   @media screen and (max-width: $break-mobile ) {
-    font-size: 1.5rem;
+    font-size: 1.5em;
   }
 }
 
 // ???
-// @mixin nav-link ($color: $color-black) {
-//   font-family: $font-regular;
-//   font-weight: 400;
-//   font-size: 2.5rem;
-//   color: $color;
+@mixin nav-link ($color: $color-black) {
+  font-family: $font-regular;
+  font-weight: 400;
+  font-size: 1rem;
+  color: $color;
+  border-bottom: none;
 
-//   @media screen and (max-width: $break-mobile ) {
-//     font-size: 1.5rem;
-//   }
-// }
+  &:hover {
+    color: $color-highlight;
+  }
+
+}
 
 @mixin code () {
   font-family: $font-mono;
