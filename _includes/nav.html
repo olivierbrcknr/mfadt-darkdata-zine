@@ -25,15 +25,15 @@
         <span></span>
       </span>
     </button>
+  </div>
 
-    <div class="nav-menu">
-      <div class="nav-menu-links">
-        <a href="{{ site.baseurl }}">introduction</a>
-        {% for category in site.categories %}
-        <a href="#{{ category[0] | slugify }}">{{ category[0] }}</a>
-        {% endfor %}
-        <a href="#about">About</a>
-      </div>
+  <div class="nav-menu">
+    <div class="nav-menu-links">
+      <a href="{{ site.baseurl }}">introduction</a>
+      {% for category in site.categories %}
+      <a href="#{{ category[0] | slugify }}">{{ category[0] }}</a>
+      {% endfor %}
+      <a href="#about">About</a>
     </div>
   </div>
 </nav>

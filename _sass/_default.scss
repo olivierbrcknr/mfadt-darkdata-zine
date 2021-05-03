@@ -12,7 +12,7 @@
 }
 
 html {
-  @include body( $color-font-reg );
+  @include body($color-font-reg);
   background: $color-bg;
 }
 
@@ -36,7 +36,6 @@ h2 {
 
 //h3 -> article byline;
 h3 {
-
   // color: $color-highlight;
   display: flex;
   align-items: center;
@@ -44,21 +43,22 @@ h3 {
   margin-bottom: 1em;
 
   &:after {
-    content: '';
+    content: "";
     display: block;
-    background:$color-highlight;
+    background: $color-highlight;
     height: 0.1em;
     width: auto;
     flex: 1;
-    margin-left: .4em;
+    margin-left: 0.4em;
   }
 }
 
 // E.g. references
-h5 {
-  font-weight: 600;
+h4, h5 {
+  @include bibliography;
+  
   margin-top: 1rem;
-  margin-bottom: 0.4rem
+  margin-bottom: 0.4rem;
 }
 
 p + p {
@@ -72,20 +72,26 @@ a {
   border-bottom: solid 1px currentColor;
 
   &:hover {
+    color: $color-highlight;
     border: none;
   }
 }
 
 table {
   border-collapse: collapse;
+  width: 100%;
+
   th {
     font-weight: 700;
   }
-  th, td {
+  th,
+  td {
     padding: 0.5em;
-    border: solid 1px $color-black;
+    border: solid 3px $color-black;
   }
-}
+} 
+
+
 
 #backgroundDither {
   width: 100vw;
@@ -113,22 +119,24 @@ table {
 }
 
 .centerBlock {
+  width: 95%;
   padding: $padding-default;
   max-width: $max-width;
   margin: 0 auto;
+
+  @media screen and (min-width: $break-tablet) {
+    width: 100%;
+  }
 }
 
 .aboutText {
   padding: 3rem $padding-default;
 }
 
-
 // Mobile adjustments
 @media screen and (max-width: $break-mobile) {
-  
 }
 
 // DarkMode adjustments
 @media (prefers-color-scheme: dark) {
-  
 }

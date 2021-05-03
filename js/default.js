@@ -30,6 +30,29 @@ const formatArticleHeaders = () => {
   })
 }
 
+//adds vertical styling for portrait images
+const formatArticleImages = () => {
+  const images = document.querySelectorAll("article img")
+  images.forEach(image => {
+    image.addEventListener("load", () => {
+      if (image.height > image.width) {
+        image.classList.add("vertical")
+      }
+
+      if (image.alt) {
+        const caption = document.createElement("caption");
+        caption.style.width = image.width + "px";
+        caption.innerHTML = image.alt;
+        image.parentNode.appendChild(caption);
+
+        window.addEventListener("resize", () => {
+          caption.style.width = image.width + "px";
+        })
+      }
+    })
+  })
+}
+
 const smoothScroll = () => {
 
   const clickHandler = (e) => {
@@ -87,6 +110,7 @@ document.addEventListener("DOMContentLoaded", function () {
   smoothScroll();
 
   formatArticleHeaders();
+  formatArticleImages();
 
   initMobileMenu();
 });

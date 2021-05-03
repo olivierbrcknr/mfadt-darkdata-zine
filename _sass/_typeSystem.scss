@@ -14,7 +14,7 @@
 @mixin sectionTitle ($color: $color-black) {
   font-family: $font-regular;
   font-weight: 700;
-  font-size: 1.5em;
+  font-size: 1.35em;
   letter-spacing: 0.02em;
   line-height: 1em;
   color: $color;
@@ -78,10 +78,26 @@
   &:hover {
     color: $color-highlight;
   }
-
 }
 
 @mixin code () {
   font-family: $font-mono;
   font-weight: 400;
+}
+
+@mixin quote() {
+  font-family: $font-regular;
+  font-weight: 400;
+  font-size: 0.9rem;
+}
+
+@mixin bibliography() {
+  font-family: $font-highlight;
+  font-weight: 600;
+}
+
+@mixin caption {
+  font-family: $font-regular;
+  font-size: 0.75rem;
+  opacity: 0.8;
 }
