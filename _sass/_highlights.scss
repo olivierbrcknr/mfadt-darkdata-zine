@@ -6,6 +6,7 @@ pre.highlight {
   padding: $padding-default;
   font-variant-ligatures: none;
   font-size: 0.8rem;
+  overflow-x: scroll;
 
   code {
     background: none;

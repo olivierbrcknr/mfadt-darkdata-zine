@@ -67,7 +67,7 @@ Google’s data was far more thorough. It displayed every location search I ever
 
 ## Collecting my smartphone data for an hour
 
-![Image of Maps]()
+![Image of my walk]( {{ site.baseurl }}/assets/img/curryWurst/map.jpg )
 
 Retrieving my data from the smartphone’s provider did not get me where I wanted. So, time to explore my second approach: Collecting the data myself to visualize its potential. Using the app SignalLog allowed me to simply start collecting (Thomas 2017).
 
@@ -173,9 +173,10 @@ Some of these datapoints were surprising to me as well. For example, the ML chip
 
 ## My Data
 
-// Insert DataViz here
+<iframe src="https://mfadt-darkdata-contribution-olivierbrcknr.vercel.app/" class="submission_currywurst">
+</iframe>
 
-[→ Also see the data here](https://mfadt-darkdata-contribution-olivierbrcknr.vercel.app/)
+[→ Also see the data here](https://mfadt-darkdata-contribution-olivierbrcknr.vercel.app/){: .source}
 
 
 Just taking a glimpse at this data reveals a lot of my actions in that hour. In the raw data—for example, at the accelerometer data, as mentioned above—one can already see when I moved or when I stopped. The already precomputed data helps it even more to make the whole sensor data more understandable for humans. The pedometer data, for example, already calculates the average paces I had at each moment making it directly readable for us humans. To see what speed I had at which moment in time—when I got a bit faster, or directly showing when I stopped—and not only making us guess it.

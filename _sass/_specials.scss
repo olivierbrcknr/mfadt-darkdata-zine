@@ -1,0 +1,13 @@
+
+
+iframe.submission_currywurst {
+    width: calc( 100vw -  #{$padding-default*2} );
+    max-width: 1200px;
+    left: 50%;
+    transform: translateX(-50%);
+    min-height: 1060px;
+
+    @media screen and (max-width: $break-mobile) {
+        min-height: 1320px;
+    }
+}
