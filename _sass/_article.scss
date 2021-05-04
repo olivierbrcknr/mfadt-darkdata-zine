@@ -11,8 +11,8 @@ article {
   
     p {
       @include quote;
-      padding-left: 4rem;
-      max-width: 840px;
+      padding-left: 2em;
+      // max-width: 840px;
     }
   }
 
@@ -35,61 +35,87 @@ article {
   }
 
 
-  ol {
-    list-style-type: decimal-leading-zero;
-  }
-
+  
+  ol,
   ul {
-    list-style-type: disc;
-  }
 
-  ol, ul {
-    padding-left: 1.2rem;
-    width: 90%;
-    margin: 1rem auto;
+    padding: 1rem 0;
 
     li {
-      padding-left: 1rem;
+
+      padding: 1rem 0 1rem 50px;
+      border-bottom: solid 2px $color-black;
+
+      &::before {
+        content: '';
+        display: block;
+        width: 30px;
+        height: 30px;
+        background: url(assets/img/list-point.png);
+        position: absolute;
+        left: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        image-rendering: pixelated;
+      }
+
+      &:last-child {
+        border-bottom: none;
+      }
     }
   }
 
-  // ol {
-  //   margin: 10px auto;
-  //   width: 80%;
+  ol {
+    list-style-type: decimal-leading-zero;
+    padding-left: 2rem;
 
-  //   li {
-  //     // list-style-type: none;
-  //     list-style-type: decimal-leading-zero;
-  //     list-style-position: outside;
-  //     counter-increment: step;
-  //     padding-left: 60px;
-  //     padding-right: 0;
-  //     padding-bottom: 0.6rem;
-  //     border-bottom: 2px solid $color-black;
+    li {
+      padding-left: 0.5rem;
+      border-bottom: none;
 
-  //     &::before {
-  //       content: counter(step);
-  //       margin-right: 60px;
-  //       font-size: 1.25rem;
-  //     }
-  //   }
-  // }
 
-  // ol {
-  //     list-style-type: decimal;
-  // }
-  // li {
-  //     margin-bottom: 0.1rem;
-  // }
+      &::before {
+        background: none;
+        left: -2rem;
+        top: 50%;
+        width: calc( 100% + 2rem );
+        height: calc( 100% + 2px );
+        border-bottom: solid 2px $color-black;
+        pointer-events: none;
+      }
 
+      &:last-child {
+        &::before {
+          border: none;
+        }
+      }
+    }
+  }
+
+  a.footnote {
+    font-weight: 700;
+    border: none;
+  }
+  
+  .footnotes ol,
   .references-list {
     @include smallText;
     list-style-type: decimal-leading-zero;
+    padding-left: 2em;
+
+    li {
+      padding: 0;
+      border-bottom: none;
+      margin-bottom: 0.5em;
+      padding-left: 1em;
+
+      &::before {
+        display: none;
+      }
+    }
   }
 
-  .footnotes {
-    margin-top: 2rem;
-    @include smallText;
+  .footnotes ol {
     list-style-type: decimal-leading-zero;
   }
 }

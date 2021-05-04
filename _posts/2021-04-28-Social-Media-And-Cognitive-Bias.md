@@ -12,7 +12,7 @@ Making sense of the world has always been rather a complex task, that is why oft
 In a time where we are battling against the spread of fake news and conspiracy theories, a time where we begin questioning the manipulating capabilities of digital advertisement, it is useful to understand how cognitive bias functions and reflect on what our own biases might be. We should also be aware of how social media and the digital marketing industry feeds off these limitations in our thinking to get us to act in a way that may not be in our best interest.
 
 
-##Bandwagon effect
+## Bandwagon effect
 
 Have you ever come across an interesting post on social media, were about to like it just before noticing no other person before you liked it? What if 1k people liked it before you? How does this affect your likelihood to engage with this post? Even if it makes you doubt for a minute, that minute represents your brain going through a cognitive bias called the Bandwagon effect. Let’s have another example, maybe at some point you were walking down the street when you saw people congregating, curious about what was happening, you may have walked towards the group and asked somebody in the crowd, what is happening? “I have no idea” they respond. We can see that same idea often in the stock market or with digital currency. Everybody is buying bitcoin, should I?
 
@@ -23,7 +23,7 @@ Now let’s go back to social media and its algorithms. One popular feature is t
 As an analogy, imagine that information about nutrition and how food affects the body was not widely available, and food brands encouraged you to consume only the things you already liked. Over time, amplified by bots whose purpose is to magnify disinformation, this would be detrimental to the health of the entire nation.
 
 
-##Strategies to deal with the bandwagon effect
+## Strategies to deal with the bandwagon effect
 
 Cognitive biases are not intrinsically bad, they exist for a reason and the bandwagon effect exists as a self-preservation mechanism. In our early beginnings as homo sapiens, if thousands of years ago your tribe started running out of nowhere you’ll probably want to run as well, maybe they saw something dangerous, we rather be safe than sorry. However we are not facing the same dangers as thousands of years ago, so in order to have a more rational thinking, especially if the stakes are high, some of these strategies may help:
 
@@ -31,7 +31,7 @@ Cognitive biases are not intrinsically bad, they exist for a reason and the band
 * **Identify if there are specific promoters to the idea:** Who is the real author behind the piece of information that I’m considering, do they have a particular goal in mind, are they benefiting in some way of me taking this decision/position?
 * **Hold yourself accountable:** It is not because many people do it that it automatically makes it right or that it will have less consequences. Thinking about the potential impact of your actions and comparing it to the consequences of other possible alternatives will make your reasoning less prone to error.
 
-##Confirmation Bias
+## Confirmation Bias
 
 Maybe you are an Apple or a Windows fan, or you like some other operating system. It’s highly likely that you have been exposed to lots of information confirming all the benefits and perks and explaining all the disadvantages of either of those brands. Which are the ones you remember? The ones that have stuck in your brain? If you are, for example, an Apple fan, it is more likely that you will remember all the advantages of Apple and having more trouble remembering the disadvantages, the same goes the other way around. This is because our brain is hardwired to search, interpret and recall information that supports our current beliefs. 
 
@@ -41,7 +41,7 @@ If this happens in real life now let’s look back at how social media algorithm
 
 If we are naturally biased to recall information that confirms our current belief and what is more, our main source of information is already providing us with information that aligns with our way of thinking it is highly unlikely that those beliefs could be challenged. This is the effect named “Echo chambers”, an environment where alternate perspectives do not exist. Luckily for us, once we become aware of how confirmation bias works, it becomes easier to follow some strategies to avoid the tunnel vision trap.
 
-##Strategies to deal with confirmation bias 
+## Strategies to deal with confirmation bias 
 
 In the age of post-truth and fake news, one of the main aspects to focus on is how and where we consume news media. Because social media and other personalized platforms are algorithmically prone to creating these echo chambers, one of the main actions against it is to have different sources to compare different perspectives, other strategies may include:
 
@@ -54,5 +54,6 @@ Although these strategies can be helpful in keeping an open mind, news consumpti
 * **[AllSides](https://www.allsides.com/unbiased-balanced-news)** A news aggregator that facilitates comparison by sharing articles from the left, center, and right side by side. Categories are determined by users and therefore reflect public perception biases as opposed to content-level bias.
 * **[FactCheck.org](https://www.factcheck.org/)** A nonpartisan, nonprofit “consumer advocate” that monitors the factual accuracy of what is said publicly by major U.S. political players. A project of the Annenberg Public Policy Center of the University of Pennsylvania.
 * **[Is This True?](https://www.politico.com/interactives/2018/is-this-true/)** A fake news database created and maintained by Politico.
- 
+
+
 Now it's up to you, coming back to the metaphor of a nutritional pyramid and now that you know different strategies, what would be your plan to have a more healthy and diversified news consumption?

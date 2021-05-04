@@ -103,7 +103,17 @@ const initMobileMenu = () => {
   navLinks.forEach(link => link.addEventListener("click", toggleMenu))
 }
 
+const addFootnotesHeadline = () => {
 
+  const footnotes = document.querySelector('.footnotes')
+
+  if( footnotes ){
+    const headline = document.createElement('h5')
+    headline.innerHTML = "Footnotes"
+    footnotes.prepend(headline)
+  }
+
+}
 
 document.addEventListener("DOMContentLoaded", function () {
 
@@ -113,6 +123,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   formatArticleHeaders();
   formatArticleImages();
+  addFootnotesHeadline();
 
   initMobileMenu();
 });

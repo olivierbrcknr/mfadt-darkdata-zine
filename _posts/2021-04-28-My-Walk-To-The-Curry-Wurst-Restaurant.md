@@ -202,5 +202,4 @@ I do not have an answer to these questions. You could escape from this tracking 
 - Weckert, Simon (2020). Google Maps Hack. Accessed on April 12th, 2021 at www.simonweckert.com/googlemapshacks.html
 {: .references-list}
 
-
 [^1]: Move Lab (back then called “moovel lab”) did in 2017 [an enjoyable project to display how a self-driving car “sees.”](https://benedikt-gross.de/projects/who-wants-to-be-a-self-driving-car) It is a fun way to understand how machines see and translate images into their language.
