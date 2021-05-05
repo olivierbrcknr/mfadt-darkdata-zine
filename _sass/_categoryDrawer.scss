@@ -86,7 +86,7 @@
       grid-gap: 20px;
       padding: 1rem;
 
-      @media screen and (max-width: $break-mobile) {
+      @media screen and (max-width: $break-tablet) {
         padding: 0;
         display: block;
       }
@@ -98,14 +98,14 @@
         max-width: 480px;
         padding: $padding-default * 2;
 
-        @media screen and (max-width: $break-mobile) {
+        @media screen and (max-width: $break-tablet) {
           margin: 0;
+          max-width: initial;
         }
 
         .drawerArticle-image {
           width: 100%;
-          // background: url(assets/img/dither_bg.gif);
-          // background-size: cover;
+          image-rendering: pixelated;
 
           &::before {
             // Add aspect ratio 4:3

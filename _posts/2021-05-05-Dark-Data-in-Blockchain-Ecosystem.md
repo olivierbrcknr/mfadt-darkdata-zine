@@ -1,6 +1,5 @@
 ---
 title: Dark Data in Blockchain Ecosystem
-desc: ×
 author: speculative data
 categories: ["Data Futures"]
 ---

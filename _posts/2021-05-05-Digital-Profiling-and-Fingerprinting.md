@@ -1,6 +1,5 @@
 ---
 title: Digital Profiling and Fingerprinting
-desc: ×
 author: Nicholas D’Angelo
 categories: ["Dark Connections"]
 image: "digitalProfiling/ThumbDigitalProfiling.gif"
