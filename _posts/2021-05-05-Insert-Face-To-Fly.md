@@ -1,4 +1,10 @@
-# Insert Face To Fly
+---
+title: Insert Face to Fly
+desc: An examination of TVS, the new US airport facial recognition program
+author: Ege Uz
+categories: ["Dark Connections"]
+image: airportSurveillance/ThumbAirportSurveillance.png
+---
 
 As air travel ground to a halt during COVID-19, U.S. Customs and Border Protection (CBP) has been rolling out their new facial recognition program across airports in the U.S. The program, called Traveler Verification Service (TVS), is a cloud-hosted facial recognition software used to identify travelers through photos taken of them in realtime at the airport, most prominently during passport control, and security checks in boarding gates. Since its initial pilots in 2016 and 2017, the TVS has been put to use in 20 international airports in 14 states, and CBP has stated that they've processed over 23 million travelers using facial recognition technology in 2020.[^1]
 
@@ -52,7 +58,7 @@ If you still have doubts whether the TVS will expand and calcify into something 
 
 ### About the Author
 
-Ege Uz is a second year MFADT student. He likes the Internet, and dislikes airports.
+[Ege Uz](https://egeuz.com/) is a second year MFADT student. He likes the Internet, and dislikes airports.
 
 ### Footnotes
 
