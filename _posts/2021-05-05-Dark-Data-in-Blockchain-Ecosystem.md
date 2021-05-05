@@ -70,49 +70,51 @@ Individual concerns on dark data will increase in coming days and years. Dark da
 Blockchain ecosystems could be the viable technological intervention in order to protect people’s privacy and data rights. This sort of new technology could be developed in public- private collaboration in order to manage dark data. For example, major data generating activities of TIFAAANG (Twitter, Instagram, Facebook, Apple, Amazon, Alibaba, Netflix, Google) and other corporations can use “blockchain ecosystems'' to keep individuals’ data secured and compensated. Meanwhile, the government could (and should) introduce new rules for blockchain data management and privacy, because the technology has the potential to bridge the trust among all players in the ecosystem: government, businesses and people. 
 
 
+##Author 
+speculative data is 
+
+
 ##### Sources:
 
-
-- https://www.cnbc.com/2021/03/30/new-york-state-senate-passes-bill-to-legalize-recreational-weed.html#:~:text=Key%20Points-,Gov.,the%20drug%20for%20recreational%20use.
-- https://www.coindesk.com/price/dogecoin
-- https://www.forbes.com/advisor/investing/what-is-dogecoin/
-- https://www.brides.com/does-online-dating-work-5112033#:~:text=The%20Research,something%20casual%20or%20long%2Dterm.
-- https://www.businessnewsdaily.com/10625-businesses-collecting-data.html
-- https://www.eu-startups.com/2020/08/berlin-based-apheris-raises-e2-5-million-to-help-companies-share-and-analyse-data-securely/
-- https://www.vice.com/en/article/pkd7pk/banjo-ai-surveillance-utah-contract
-- https://www.datamation.com/big-data/structured-vs-unstructured-data/
-- https://news.yahoo.com/the-postal-service-is-running-a-running-a-covert-operations-program-that-monitors-americans-social-media-posts-160022919.html
-- https://www2.deloitte.com/ch/en/pages/innovation/articles/dark-data.html
-- https://nakamoto.com/the-cypherpunks/
-- https://www.amazon.com/Digital-Cash-Anarchists-Technologists-Cryptocurrency-ebook/dp/B07MDHTPB9
-- https://www.forbes.com/sites/mikecollins/2015/07/14/the-big-bank-bailout/?sh=69fca00e2d83
-- https://www.reddit.com/r/Bitcoin/comments/ma5lmd/bitcoin_before_and_after_headlines/
-- https://www.cbinsights.com/research/industries-disrupted-blockchain/
-- https://www.fnlondon.com/articles/weve-crossed-a-line-why-goldman-sachs-says-crypto-is-here-to-stay-20210316
-- https://decrypt.co/66411/cia-bitcoin-surveillance
-- Blockchain Expert Explains Blockchain https://www.youtube.com/watch?v=hYip_Vuv8J0
-- Reading Rainbows: https://www.youtube.com/watch?v=p6FEI9qrzsQ
-- https://www.investopedia.com/terms/b/blockchain.asp
-- https://www.coinbase.com/learn/market-updates/deep-dive-ethereum-economy
-- https://polkadot.network/what-is-polkadot-a-brief-introduction/
-- https://www.justice.gov/opa/pr/attorney-general-william-p-barr-announces-publication-cryptocurrency-enforcement-framework
-- https://www.finextra.com/blogposting/18496/remaining-challenges-of-blockchain-adoption-and-possible-solutions
-- https://www.justice.gov/opa/pr/attorney-general-william-p-barr-announces-publication-cryptocurrency-enforcement-framework
-- https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army&sa=D&source=editors&ust=1619454734060000&usg=AOvVaw1GiwOipXl2PF6dOM8gCZ8d
-- https://hbr.org/2017/01/the-truth-about-blockchain
-- https://reallifemag.com/money-for-nothing/
-- https://www.tandfonline.com/doi/abs/10.1080/03085147.2020.1774258#:~:text=Data%20money%3A%20The%20socio%2Dtechnical%20infrastructure%20of%20cryptocurrency%20blockchains,-Full%20Article&text=Drawing%20on%20an%20empirical%20study,based%20taxonomy%20of%20cryptocurrency%20blockchains.
-- https://www.nysenate.gov/newsroom/in-the-news/kevin-thomas/new-yorks-privacy-bill-even-bolder-californias
-- https://www.wired.com/story/new-york-privacy-act-bolder/
-- https://www.youtube.com/watch?v=7jY_ZP6gQiQ
-- Goo goo Dolls - Slide https://www.youtube.com/watch?v=yP4qdefD2To
-- https://themarkup.org/privacy/2021/04/15/big-tech-is-pushing-states-to-pass-privacy-laws-and-yes-you-should-be-suspicious
-- https://originstamp.com/blog/top-blockchain-startups-to-watch/
-- https://venturebeat.com/2021/04/21/blockchain-startup-digital-asset-nabs-120m-to-knock-down-data-silos/
-- What is the difference between Bitcoin and blockchain? Youtube: https://www.youtube.com/watch?v=MKwa-BqnJDg
-- https://www.washingtonpost.com/business/2021/04/16/half-countrys-remaining-mall-based-department-stores-are-expected-shutter-by-2025/
-- https://www.nbcnews.com/business/business-news/amazon-snapping-disused-shopping-malls-turning-them-fulfillment-centers-n1262914
-- https://www.wsj.com/articles/malls-fill-vacant-stores-with-server-rooms-1415042980
-- https://www.ft.com/content/cfe4ca11-139a-4d4e-8a65-b3be3a0166be
-- https://www.foreignaffairs.com/articles/united-states/2021-04-16/data-power-new-rules-digital-age
+<https://www.cnbc.com/2021/03/30/new-york-state-senate-passes-bill-to-legalize-recreational-weed.html#:~:text=Key%20Points-,Gov.,the%20drug%20for%20recreational%20use>
+- <https://www.coindesk.com/price/dogecoin>
+- <https://www.forbes.com/advisor/investing/what-is-dogecoin/>
+- <https://www.brides.com/does-online-dating-work-5112033#:~:text=The%20Research,something%20casual%20or%20long%2Dterm.>
+- <https://www.businessnewsdaily.com/10625-businesses-collecting-data.html>
+- <https://www.eu-startups.com/2020/08/berlin-based-apheris-raises-e2-5-million-to-help-companies-share-and-analyse-data-securely/>
+- <https://www.vice.com/en/article/pkd7pk/banjo-ai-surveillance-utah-contract>
+- <https://www.datamation.com/big-data/structured-vs-unstructured-data/>
+- <https://news.yahoo.com/the-postal-service-is-running-a-running-a-covert-operations-program-that-monitors-americans-social-media-posts-160022919.html>
+- <https://www2.deloitte.com/ch/en/pages/innovation/articles/dark-data.html>
+- <https://nakamoto.com/the-cypherpunks/>
+- <https://www.amazon.com/Digital-Cash-Anarchists-Technologists-Cryptocurrency-ebook/dp/B07MDHTPB9>
+- <https://www.forbes.com/sites/mikecollins/2015/07/14/the-big-bank-bailout/?sh=69fca00e2d83>
+- <https://www.reddit.com/r/Bitcoin/comments/ma5lmd/bitcoin_before_and_after_headlines/>
+- <https://www.cbinsights.com/research/industries-disrupted-blockchain/>
+- <https://www.fnlondon.com/articles/weve-crossed-a-line-why-goldman-sachs-says-crypto-is-here-to-stay-20210316>
+- <https://decrypt.co/66411/cia-bitcoin-surveillance>
+- Blockchain Expert Explains Blockchain <https://www.youtube.com/watch?v=hYip_Vuv8J0>
+- <https://www.investopedia.com/terms/b/blockchain.asp>
+- <https://www.coinbase.com/learn/market-updates/deep-dive-ethereum-economy>
+- <https://polkadot.network/what-is-polkadot-a-brief-introduction/>
+- <https://www.justice.gov/opa/pr/attorney-general-william-p-barr-announces-publication-cryptocurrency-enforcement-framework>
+- <https://www.finextra.com/blogposting/18496/remaining-challenges-of-blockchain-adoption-and-possible-solutions>
+- <https://www.justice.gov/opa/pr/attorney-general-william-p-barr-announces-publication-cryptocurrency-enforcement-framework>
+- <https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army&sa=D&source=editors&ust=1619454734060000&usg=AOvVaw1GiwOipXl2PF6dOM8gCZ8d>
+- <https://hbr.org/2017/01/the-truth-about-blockchain>
+- <https://reallifemag.com/money-for-nothing/>
+- <https://www.tandfonline.com/doi/abs/10.1080/03085147.2020.1774258#:~:text=Data%20money%3A%20The%20socio%2Dtechnical%20infrastructure%20of%20cryptocurrency%20blockchains,-Full%20Article&text=Drawing%20on%20an%20empirical%20study,based%20taxonomy%20of%20cryptocurrency%20blockchains.>
+- <https://www.nysenate.gov/newsroom/in-the-news/kevin-thomas/new-yorks-privacy-bill-even-bolder-californias>
+- <https://www.wired.com/story/new-york-privacy-act-bolder/>
+- <https://www.youtube.com/watch?v=7jY_ZP6gQiQ>
+- Goo goo Dolls - Slide <https://www.youtube.com/watch?v=yP4qdefD2To>
+- <https://themarkup.org/privacy/2021/04/15/big-tech-is-pushing-states-to-pass-privacy-laws-and-yes-you-should-be-suspicious>
+- <https://originstamp.com/blog/top-blockchain-startups-to-watch/>
+- <https://venturebeat.com/2021/04/21/blockchain-startup-digital-asset-nabs-120m-to-knock-down-data-silos/>
+- What is the difference between Bitcoin and blockchain? Youtube: <https://www.youtube.com/watch?v=MKwa-BqnJDg
+- <https://www.washingtonpost.com/business/2021/04/16/half-countrys-remaining-mall-based-department-stores-are-expected-shutter-by-2025/>
+- <https://www.nbcnews.com/business/business-news/amazon-snapping-disused-shopping-malls-turning-them-fulfillment-centers-n1262914>
+- <https://www.wsj.com/articles/malls-fill-vacant-stores-with-server-rooms-1415042980>
+- <https://www.ft.com/content/cfe4ca11-139a-4d4e-8a65-b3be3a0166be>
+- <https://www.foreignaffairs.com/articles/united-states/2021-04-16/data-power-new-rules-digital-age>
 {: .references-list}
