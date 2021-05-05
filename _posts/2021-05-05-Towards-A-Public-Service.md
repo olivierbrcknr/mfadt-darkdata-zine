@@ -55,6 +55,10 @@ People around the world are demanding a better internet, and that’s how I know
 
 Throughout the past year of isolation, the internet has been an invaluable lifeline to our friends and family, as well as a way to see outside our small quarantined worlds. It’s provided education, news, resources, and communities. Simply put: the internet of 2021 already is a public service. If we work together, we can actually treat it as such.
 
+---------------
+
+<small>[Mary Ann Badavi](https://www.maryannbadavi.com/) is a second year MFA Design & Technology student who works at the intersection of data and social justice. She believes in the power of technologists to inform policy and change.</small>
+
 
 [^1]: Ovide, Shira. “Congress Doesn't Get Big Tech. By Design.” The New York Times. The New York Times, July 29, 2020. https://www.nytimes.com/2020/07/29/technology/congress-big-tech.html. 
 [^2]: Burch, Sean. “'Senator, We Run Ads': Hatch Mocked for Basic Facebook Question to Zuckerberg.” The Wrap. The Wrap, April 10, 2018. https://www.thewrap.com/senator-orrin-hatch-facebook-biz-model-zuckerberg/. 
