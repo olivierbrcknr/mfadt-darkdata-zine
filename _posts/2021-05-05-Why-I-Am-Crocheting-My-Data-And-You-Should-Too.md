@@ -3,6 +3,7 @@ title: Why I am crocheting my data and you should too
 desc: "Examining non-digital encryption: the benefits and the history"
 author: Michelle Nee
 categories: ["Data Futures"]
+image: crocheting/ThumbCrocheting.gif
 ---
 
 For years there has been a Google Drive folder nestled among my work and school documents titled, “personal”. True to its name, the folder contained all of my personal information I needed (or was told I needed) for things like registration, applications, purchases, and even a text file of all my Google searches. Then I received a “CRITICAL ALERT” email. My information was part of a data breach.

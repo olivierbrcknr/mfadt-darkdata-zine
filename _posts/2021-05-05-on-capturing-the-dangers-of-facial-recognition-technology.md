@@ -2,6 +2,7 @@
 title: PAOLO CIRIO, on capturing the dangers of facial recognition technology 
 author: Kristin Eichenberg
 categories: ["Digital Forensics"]
+image: paoloCirio/ThumbPaoloCirio.png
 ---
 
 ![Paolo Cirio in front of his artwork, Foundations, at Giorgio Persano Gallery in Turin, Italy, 2019. Image courtesy of Paolo Cirio, photo Nicola Morittu. https://paolocirio.net/work/foundations/]( {{ site.baseurl }}/assets/img/paoloCirio/paolo-cirio-01.jpg )

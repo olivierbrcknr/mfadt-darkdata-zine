@@ -3,6 +3,7 @@ title: Dark Data in Blockchain Ecosystem
 desc: Speculating Dark Data with blockchain.
 author: speculative data
 categories: ["Data Futures"]
+image: blockchainEcosystem/ThumbnailBlockchainEcosystem.png
 ---
 
 *This is a speculative piece on the blockchain ecosystem. I acknowledge the environmental impact that cryptocurrencies currently have. My intent is to focus on blockchain and proceed with faith that blockchain technologies will evolve over time.*

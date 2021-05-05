@@ -99,6 +99,11 @@
       grid-gap: 20px;
       padding: 1rem;
 
+      @media screen and (max-width: 800px) {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      }
+
+
       @media screen and (max-width: $break-tablet) {
         padding: 0;
         display: block;
@@ -114,6 +119,7 @@
         @media screen and (max-width: $break-tablet) {
           margin: 0;
           max-width: initial;
+          min-width: initial;
         }
 
         .drawerArticle-image {
@@ -186,9 +192,9 @@
       }
     }
     .drawerContent {
-      max-height: 2000px;
+      max-height: 3000px;
       @media screen and (max-width: $break-tablet) {
-        max-height: 3000px;
+        max-height: 4000px;
       }
     }
   }

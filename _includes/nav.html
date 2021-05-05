@@ -1,4 +1,7 @@
 
+{% assign category_order = "Dark Connections,Digital Forensics,Data Futures" | split: ',' %}
+
+
 <nav>
   <div class="nav-bg"></div>
 
@@ -8,9 +11,9 @@
       <li>
         <a href="{{ site.baseurl }}">Introduction</a>
       </li>
-      {% for category in site.categories %}
+      {% for category in category_order %}
       <li>
-        <a href="#{{ category[0] | slugify }}">{{ category[0] }}</a>
+        <a href="#{{ category | slugify }}">{{ category }}</a>
       </li>
 
       {% endfor %}
@@ -30,8 +33,8 @@
 
     <div class="nav-menu-links">
       <a href="{{ site.baseurl }}">Introduction</a>
-      {% for category in site.categories %}
-      <a href="#{{ category[0] | slugify }}">{{ category[0] }}</a>
+      {% for category in category_order %}
+      <a href="#{{ category | slugify }}">{{ category }}</a>
       {% endfor %}
       <a href="#about">About</a>
     </div>
