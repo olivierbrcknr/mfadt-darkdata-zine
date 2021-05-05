@@ -42,7 +42,7 @@ Local journalism is worth the fight and reviving and protecting it are essential
 
 ---------------
 
-<small>[Isabel Anguera](http://www.isabelanguera.xyz/) is a graduating Senior in the BFA Design & Technology program at The New School. She is an aspiring ux/ui designer and creative technologist with an interest in the ethics of tech, and big data.</small>
+<small>[Isabel Anguera](http://www.isabelanguera.xyz/) is a graduating Senior in the BFA Design & Technology program at The New School. She is fascinated by the ethics of tech, and the broad impact of big data on and offline.</small>
 
 ##### Works Cited
 
