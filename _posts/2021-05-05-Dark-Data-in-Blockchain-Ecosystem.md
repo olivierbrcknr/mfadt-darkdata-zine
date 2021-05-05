@@ -1,10 +1,9 @@
 ---
 title: Dark Data in Blockchain Ecosystem
+desc: Speculating Dark Data with blockchain.
 author: speculative data
 categories: ["Data Futures"]
 ---
-
-# Dark Data in Blockchain Ecosystem
 
 *This is a speculative piece on the blockchain ecosystem. I acknowledge the environmental impact that cryptocurrencies currently have. My intent is to focus on blockchain and proceed with faith that blockchain technologies will evolve over time.*
 
@@ -16,7 +15,7 @@ Numbers are the crystal ball in the modern world. Companies are monetizing massi
 
 Dark Data is a mixture of raw and processed data that organizations/agencies collect and store. You may have heard of big data, which is massive amounts of information. Inside that large data set, only just a portion of that data set is going to be structured and used, such as: age, name, location, and phone number. Semi-structured data is loosely organized data, such as: tweets organized by hashtags, emails by inbox, etc. The remaining data, unstructured data, also known as Dark Data by the IT industry, signify information warehousing that is not organized in a clearly defined framework or model, such as [sounds, digital surveillance photos, and sensor data](https://www.datamation.com/big-data/structured-vs-unstructured-data/). Dark data has the potential value for any business because there may lie unfiltered information, which can be used as a monetization method, if utilized properly. 
 
-![]()
+![]( {{ site.baseurl }}/assets/img/blockchainEcosystem/Structured_Un_DarkData_01.jpg )
 
 A leading global consulting firm, [Deloitte, states](https://www2.deloitte.com/ch/en/pages/innovation/articles/dark-data.html): 
 
@@ -32,12 +31,12 @@ To curious readers that wish to know more about The Cypherpunk movement, a book 
 
 Which brings us to the creation of Bitcoin, by an anonymous group or individual that goes by Satoshi Nakamoto. Bitcoin was created amidst the 2008 market crash and has been the topic of many controversies. However, it wasn’t just “Bitcoin” that was revolutionary, but it was what was inside. What was this significant intangible, unknown complex technology inside Bitcoin in 2009? Blockchain. Big banks are profiting fortunes using data, however they failed to understand cryptocurrency and blockchain, and flatly dismissed their existence for years.
 
-![ Source: reddit — https://www.reddit.com/r/Bitcoin/comments/ma5lmd/bitcoin_before_and_after_headlines/ ]()
+![ Source: reddit — https://www.reddit.com/r/Bitcoin/comments/ma5lmd/bitcoin_before_and_after_headlines/ ]( {{ site.baseurl }}/assets/img/blockchainEcosystem/REDDIT_Bitcoin_Before_After.jpg )
 
 Until some interns presented the [various use cases of Blockchain, why cryptocurrencies are here to stay, even the CIA is onboard](https://www.cbinsights.com/research/industries-disrupted-blockchain/) and probably added in an explainer [video](https://www.youtube.com/watch?v=hYip_Vuv8J0). 
 ***Although, one has to wonder if the dynamics going on in workplaces about technologies are akin to Dilbert’s workplaces...*** 
 
-![Source: https://dilbert.com/strip/2018-04-20]()
+![Source: https://dilbert.com/strip/2018-04-20]( {{ site.baseurl }}/assets/img/blockchainEcosystem/Dilbert_Comic.jpg )
 
 ## Why Blockchain and what is it? 
 

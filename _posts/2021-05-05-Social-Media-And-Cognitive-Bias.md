@@ -6,8 +6,6 @@ categories: ["Dark Connections"]
 image: "cognitiveBias/ThumbCognitiveBias.gif"
 ---
 
-# Social Media & Cognitive Bias
-
 Welcome to the post-truth era, an era where the proliferation of fake news and conspiracy theories is only matched by the disappearance of objective standards for truth. How to make sense of things in such a polarized world? Is it becoming more and more difficult to have healthy debates over beliefs and events? A post-truth era entails circumstances by which “objective facts are less influential in shaping public opinion than appeals to emotion and personal belief”. In this article, we are going to explore how social media, cognitive bias and news media consumption result in an information trap and how to plan strategies against it. Let’s begin with some psychology principles.
 
 Making sense of the world has always been rather a complex task, that is why often, in our attempts to make decisions and judgements we follow unconscious rules of thumb that are hardwired into our brains. We do this as a way to simplify the vast amounts of information that we are processing everyday. In psychology, the term for these mental shortcuts is called cognitive bias and they can lead to systemic errors in decision making, or potentially, extreme forms of judgement. Although we are all subject to these biases there are external factors such as the design of social media algorithms which determine what we see on those platforms, that act as a reinforcement of these errors in thinking, leading us to inaccurate judgment, misinterpretation of reality and eventually affect our day to day decisions and behaviors.

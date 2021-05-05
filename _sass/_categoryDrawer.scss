@@ -10,10 +10,19 @@
 
   .drawerButton {
     @include category;
-    display: flex;
+    // display: flex;
     cursor: pointer;
     justify-content: space-between;
-    padding: 0 $padding-default;
+    padding: 0 calc( #{$padding-default} * 2 + 1rem);
+
+    display: grid;
+    grid-template-columns: minmax(min-content,
+    1fr) minmax(100px,
+    $max-width) 1fr;
+
+    @media screen and (max-width: $break-tablet) {
+      padding: 0 1rem;
+    }
 
     .number {
       min-width: 20px;
@@ -24,6 +33,7 @@
       // text-transform: lowercase;
       width: 100%;
       max-width: $max-width;
+      padding: 0 $padding-default;
     }
     .icon {
       min-width: 20px;
@@ -37,7 +47,6 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        width: 2em;
         right: 0;
         vertical-align: -2px;
         padding-bottom: 4px;
@@ -75,8 +84,12 @@
     }
 
     .categoryDescription {
-      padding: 1rem $padding-default;
+      padding: 1rem calc( #{$padding-default} * 2 + 1rem);
       width: 100%;
+
+      @media screen and (max-width: $break-tablet) {
+        padding: 1rem;
+      }
     }
 
     .drawerContent-Articles {

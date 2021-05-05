@@ -6,8 +6,6 @@ categories: ["Data Futures"]
 image: "publicService/ThumbPublicServiceInternet.gif"
 ---
 
-# Towards a Public Service Internet
-
 Following the January 6 insurrection at the U.S. Capitol, steps are finally being taken to address political disinformation and the role of tech companies in spreading it. But algorithms have fanned the flames of disinformation on almost every topic that touches daily life: from climate change, to COVID-19, to immigration. And even though we see it right in front of us, companies like Facebook have no reason to stop it. Their powerful computing systems are made to gather data on our behavior, analyze that data, and use it to predict our future behavior. They’ve built algorithms to figure out what content performs best, and ensure that that content appears at the top of our news feeds. That content drives clicks, clicks drive ads, and ads drive money. The business model of social media churns on, no matter who storms the seat of government.
 
 Congress has a lot to catch up on: though lawmakers are becoming more technologically savvy, Big Tech has obscured their inner workings on purpose—because they simply don’t want to change them.[^1] But by looking to existing laws on the regulation of other industries, we can imagine a new internet—one that deprioritizes misinformation and is made in the public interest.

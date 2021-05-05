@@ -59,11 +59,15 @@
 @mixin category ($color: $color-black) {
   font-family: $font-regular;
   font-weight: 400;
-  font-size: 2.5em;
+  font-size: 2.5rem;
   color: $color;
 
+  @media screen and (max-width: $break-tablet ) {
+    font-size: 2rem;
+  }
+
   @media screen and (max-width: $break-mobile ) {
-    font-size: 1.5em;
+    font-size: 1.5rem;
   }
 }
 

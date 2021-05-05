@@ -5,8 +5,6 @@ categories: ["Dark Connections"]
 image: "digitalProfiling/ThumbDigitalProfiling.gif"
 ---
 
-# Digital Profiling and Fingerprinting
-
 The field of digital privacy and data security is constantly changing. In the past year we have experienced a global pandemic that has pushed us to live our lives online. With the increase of traffic the need for online privacy and data security has surged. The ad tech industry exists to track and profit off of user data, so as more security practices become commonplace the adtech industry will continue to find new means of subversion and surveillance. A newer method of tracking and recording user data is emerging because it manages to subvert most of the current means of protection, that method has been dubbed fingerprinting - and for good reason.
 
 As data privacy has gained more media attention, users have become more aware of the extent of data collection and online surveillance. Users have been searching for ways to improve their browser security resorting to the use of VPNs (virtual private networks), Ad blockers, and password managers to secure themselves. These products all share the goal of protecting their user’s devices and privacy when online -  specifically VPNs will claim to anonymize and protect you when browsing the internet as if they are a one stop shop in security. While a VPN is a good starting point, they really only obscure their users IP address - not their online activity. Regardless, the spread of these technologies suggests that more people are interested in protecting their data- whether you are trying to avoid the prying eyes of governments, hackers, Internet service providers, or the ad tech industry. 

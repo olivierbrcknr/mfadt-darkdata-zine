@@ -6,8 +6,6 @@ categories: ["Data Futures"]
 image: "localNews/ThumbLocalNews.gif"
 ---
 
-# Local News + Dark Data
-
 ## Introduction
 Fake news was deemed word of the year in 2017. Its election brings to light the massive issue of misinformation and the way it lives and grows on the internet. Matched with the digital profiles big data curates on us, our own opinions are reflected back at us, creating a tunnel vision view of the world and politics. This effect, called the echo chamber, pushes the divide between those with opposing profiles, or opinions, until a tipping point is reached and a radical event is the outcome.
 

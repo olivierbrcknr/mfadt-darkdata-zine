@@ -5,8 +5,6 @@ author: Malath Kamaluldeen
 categories: ["Digital Forensics"]
 ---
 
-# Intimate Data Violence
-
 ## Stalkerware in My Personal Life
 
 Cyberstalking has been a part of my life for almost the entirety of my ownership of an iPhone. Emigrating from Iraq to America in 2008 brought a lot of unsettling feelings for my family, there was a dichotomy of what customs my family planned to raise me with versus the culture and environment that would later shape my attitudes in life. There is a general pattern in the Middle East of women being under high surveillance, being subjected to higher rates of abuse, and there is an attitude of covert ownership in women by men. Usually this is by the “head of the household” when you are a young girl, that is your father, but when you reach the age of marriage, the power shifts to whomever you wed. The motivation between these ownership patterns boils down to control and the family “image”. Knowledge on what is occurring in someone’s device opens up a portal to the mind if the user is highly engaged in social media and technology, and with that knowledge comes the ability to control others behaviors and to feed the collective narcissistic ego of the family. 

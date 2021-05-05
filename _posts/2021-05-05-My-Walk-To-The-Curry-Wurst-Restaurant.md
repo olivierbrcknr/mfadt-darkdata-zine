@@ -6,8 +6,6 @@ categories: ["Digital Forensics"]
 image: "myWalk/ThumbMyWalk.gif"
 ---
 
-# My Walk To The Curry Wurst Restaurant
-
 We have it always with us, the tiny computer in our pockets: the smartphone. It is this piece of wonder, which lets us communicate with anyone around the world, playing interactive games, measuring our apartment without needing a measuring tape, or taking incredible pictures. It is increasingly implemented in our day-to-day, helping us in every aspect of our life. Since its release in 2007, displays sharpened, cameras improved and multiplied, and new sensors added, such as a LiDAR sensor which can 3D scan your surroundings. Improvements enable new apps to arise, anticipating every little step we are taking to make our lives as easy as possible.
 
 A lot of the applications mentioned above use physical sensors to detect our actions or surroundings. They are the components that allow for our smartphones to feel so intuitive. The accelerometer, for example, senses the acceleration and the gravitational force alongside three perpendicular axes. This way, it can detect the position in space, which eventually tells the software in which angle the user holds their phone. Using this information, the phone knows, for example, if it needs to display content in portrait or landscape mode.

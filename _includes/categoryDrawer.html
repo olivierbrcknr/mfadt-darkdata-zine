@@ -1,11 +1,16 @@
 {% assign totalIndex = 1 %}
 
-<div class="categoryDrawerContainer">
-    {% for category in site.categories %}
 
+<!-- Own structure of posts -->
+{% assign category_order = "Dark Connections,Digital Forensics,Data Futures" | split: ',' %}
+
+<div class="categoryDrawerContainer">
+
+  {% for category in category_order %}
+    
     {% assign totalIndex = totalIndex | plus:1 %}
 
-      <div class="categoryDrawer" id="{{ category[0] | slugify }}">
+      <div class="categoryDrawer" id="{{ category | slugify }}">
     
         <div class="drawerButton">
     
@@ -13,7 +18,7 @@
               {{ forloop.index }}
             </div>
             <div class="name">
-              {{ category[0] }}
+              {{ category }}
             </div>
             <div class="icon">
               <!-- added via css -->
@@ -25,8 +30,8 @@
     
           <div class="drawerContent-BorderTop"></div>
 
-          <div class="centerBlock categoryDescription">
-            {% case category[0] %}
+          <div class="categoryDescription">
+            {% case category %}
               {% when "Digital Forensics" %}
                 
               <p>
@@ -54,41 +59,42 @@
     
           <div class="drawerContent-Articles">
 
-            {% for article in category[1] %}
-      
-              <a href="{{ site.baseurl }}{{ article.url }}" class="drawerArticle">
-      
-                <div class="drawerArticle-image">
-                  <!-- for dummy purposes -->
-                  {% if article.image %}
-                    <img src="{{ site.baseurl }}/assets/img/{{ article.image }}">
-                  {% else %}
-                    <img src="{{ site.baseurl }}/assets/img/dither_bg.gif">
+            {% for article in site.posts %}
+              {% if article.categories contains category %}
+        
+                <a href="{{ site.baseurl }}{{ article.url }}" class="drawerArticle">
+        
+                  <div class="drawerArticle-image">
+                    <!-- for dummy purposes -->
+                    {% if article.image %}
+                      <img src="{{ site.baseurl }}/assets/img/{{ article.image }}">
+                    {% else %}
+                      <img src="{{ site.baseurl }}/assets/img/dither_bg.gif">
+                    {% endif %}
+                  </div>
+        
+                  <h2>
+                    {{ article.title }}
+                  </h2>
+                  <h4>
+                    by {{ article.author }}
+                  </h4>
+        
+                  <!-- Does not seem to be needed so far
+                  {% if article.desc %}
+                    <p> — {{ article.desc | markdownify }}</p>
                   {% endif %}
-                </div>
-      
-                <h2>
-                  {{ article.title }}
-                </h2>
-                <h4>
-                  by {{ article.author }}
-                </h4>
-      
-                <!-- Does not seem to be needed so far
-                {% if article.desc %}
-                  <p> — {{ article.desc | markdownify }}</p>
-                {% endif %}
-                -->
-      
-              </a>
-      
+                  -->
+        
+                </a>
+              {% endif %}
             {% endfor %}
           </div>
     
         </div>
     
       </div>
-    {% endfor %}
+    {% endfor %} <!-- categories -->
 
     <!-- Add drawer for "About" -->
 
@@ -175,7 +181,10 @@
           </h4>
 
           <ul>
-            {% for post in site.posts %}
+
+            {% assign sortByAuthor = site.posts | sort: 'author' %}
+
+            {% for post in sortByAuthor %}
               <li>
                 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.author }}</a>
               </li>
