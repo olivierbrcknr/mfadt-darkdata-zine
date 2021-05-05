@@ -57,7 +57,7 @@ Throughout the past year of isolation, the internet has been an invaluable lifel
 
 ---------------
 
-<small>[Mary Ann Badavi](https://www.maryannbadavi.com/) is a second year MFA Design & Technology student who works at the intersection of data and social justice. She believes in the power of technologists to inform policy and change.</small>
+<small>[Mary Ann Badavi](https://www.maryannbadavi.com/) is a second year MFA Design & Technology student who works at the intersection of data, ethics, and civic design. She believes in the power of technologists to inform policy and social change.</small>
 
 
 [^1]: Ovide, Shira. “Congress Doesn't Get Big Tech. By Design.” The New York Times. The New York Times, July 29, 2020. <https://www.nytimes.com/2020/07/29/technology/congress-big-tech.html>. 
