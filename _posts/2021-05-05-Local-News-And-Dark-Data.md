@@ -40,16 +40,20 @@ Policy has the strongest potential hand to play in supporting local news and tac
 
 Local journalism is worth the fight and reviving and protecting it are essential. It provides a lot and has shaped important aspects of the communities we live in, holding a key that could be influential in bringing back a sense of normalcy to our digital environments. First steps are being taken and people are becoming more aware of the problem. It’s a large scale issue, but the first step, if you can afford it, is to subscribe to your own local paper. 
 
+---------------
+
+<small>[Isabel Anguera](http://www.isabelanguera.xyz/) is a graduating Senior in the BFA Design & Technology program at The New School. She is an aspiring ux/ui designer and creative technologist with an interest in the ethics of tech, and big data.</small>
+
 ##### Works Cited
 
-* Abernathy, Penny Muse. "Why Local News Matters, and What We Can Do to Save It." *New York State Bar Association.* New York State Bar Association, 24 Jan. 2020. Web. 13 Apr. 2021.
-* Alba, Davey, and Jack Nicas. "As Local News Dies, a Pay-for-Play Network Rises in Its Place." *The New York Times.* The New York Times, 18 Oct. 2020. Web. 10 Apr. 2021.
-* Cantwell, Maria. *Local Journalism: America’s Most Trusted News Sources Threatened.* Rep. U.S. Senate Committee on Commerce, Science, and Transportation. Print.
-* "Digital Media Literacy: What Is an Echo Chamber?" *GCFGlobal.org.* Goodwill Community Foundation, Inc. Web. 14 Apr. 2021.
-* Edelman, Gilad. "Fake News Gets More Engagement on Facebook-But Only If It's Right-Wing." *Wired.* Conde Nast, 3 Mar. 2021. Web. 13 Apr. 2021.
-* Hill, Mark. "Paywalls, Newsletters, and the New Echo Chamber." *Wired.* Conde Nast, 12 Dec. 2020. Web. 10 Apr. 2021.
-* Morris, Sam, and Surya Mattu. "Split Screen: How Different Are Americans' Facebook Feeds? – The Markup." *Split Screen: How Different Are Americans' Facebook Feeds? – The Markup.* Ed. Jill Jaroff and Julia Angwin. The Markup, 1 Jan. 2021. Web. 10 Apr. 2021.
-* Trejbal, Christian. "U.S. Sen. Maria Cantwell Wants to save Local Newspapers." *The Seattle Times.* The Seattle Times, 02 Nov. 2020. Web. 13 Apr. 2021.
+* Abernathy, Penny Muse. "Why Local News Matters, and What We Can Do to Save It." *New York State Bar Association.* New York State Bar Association, 24 Jan. 2020. Web. 13 Apr. 2021. <https://nysba.org/why-local-news-matters-and-what-we-can-do-to-save-it/#:~:text=Abundant%20research%20in%20recent%20years,of%20local%20and%20state%20government.>
+* Alba, Davey, and Jack Nicas. "As Local News Dies, a Pay-for-Play Network Rises in Its Place." *The New York Times.* The New York Times, 18 Oct. 2020. Web. 10 Apr. 2021. <https://www.nytimes.com/2020/10/18/technology/timpone-local-news-metric-media.html> 
+* Cantwell, Maria. *Local Journalism: America’s Most Trusted News Sources Threatened.* Rep. U.S. Senate Committee on Commerce, Science, and Transportation. Print. <https://www.cantwell.senate.gov/imo/media/doc/Local%20Journalism%20Report%2010.26.20_430pm.pdf>
+* "Digital Media Literacy: What Is an Echo Chamber?" *GCFGlobal.org.* Goodwill Community Foundation, Inc. Web. 14 Apr. 2021. <https://edu.gcfglobal.org/en/digital-media-literacy/what-is-an-echo-chamber/1/>
+* Edelman, Gilad. "Fake News Gets More Engagement on Facebook-But Only If It's Right-Wing." *Wired.* Conde Nast, 3 Mar. 2021. Web. 13 Apr. 2021. <https://www.wired.com/story/right-wing-fake-news-more-engagement-facebook/>
+* Hill, Mark. "Paywalls, Newsletters, and the New Echo Chamber." *Wired.* Conde Nast, 12 Dec. 2020. Web. 10 Apr. 2021. <https://www.wired.com/story/paywalls-newsletters-and-the-new-echo-chamber/?fbclid=IwAR2ERHojo-D5heJHEbV5urZQ5ZK6DPV8qdyx596q-Y37C4tTik_GUm6l0Zs>
+* Morris, Sam, and Surya Mattu. "Split Screen: How Different Are Americans' Facebook Feeds? – The Markup." *Split Screen: How Different Are Americans' Facebook Feeds? – The Markup.* Ed. Jill Jaroff and Julia Angwin. The Markup, 1 Jan. 2021. Web. 10 Apr. 2021. <https://themarkup.org/citizen-browser/2021/03/11/split-screen?feed=biden_trump>
+* Trejbal, Christian. "U.S. Sen. Maria Cantwell Wants to save Local Newspapers." *The Seattle Times.* The Seattle Times, 02 Nov. 2020. Web. 13 Apr. 2021.<https://www.seattletimes.com/opinion/u-s-sen-maria-cantwell-wants-to-save-local-newspapers/>
 {: .references-list}
 
 
