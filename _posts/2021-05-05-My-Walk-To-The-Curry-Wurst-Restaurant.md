@@ -191,16 +191,23 @@ We profit from this knowledge by getting another convenience layer on services a
 
 I do not have an answer to these questions. You could escape from this tracking madness by using a feature phone instead of a smartphone, but then again, this would limit our daily lives in today’s world drastically. Yet, I hope that knowing what your smartphone is capable of, additionally to the software layer, gives you a better understanding of it.
 
+
+##### About the Author
+
+Olivier Brückner is a first year MFADT student. He is fascinated by techonological hardware of any kind.
+[Portfolio](https://olivierbrueckner.de/) — [Twitter](https://twitter.com/olivierbrcknr) 
+
+
 ##### References
 
-- Apple (2020). Location Services & Privacy. Accessed on April 12th, 2021 at support.apple.com/en-us/HT207056
-- Apple (2021). AirTag. Accessed on April 21th, 2021 at www.apple.com/airtag/
-- Entis, Laura (2015, July 31st). Ads can now tell how fast your heart is beating, The Guardian. Accessed on April 12th, 2021 at www.theguardian.com/lifeandstyle/2015/jul/31/biometric-data-apple-wimbledon-facebook-mindshare-affectiva-unilever-coca-cola-mars
-- Hernández Sánchez, Sara; Fernández Pozo, Rubén; Hernández Gómez, Luis A. (2018). Estimating Vehicle Movement Direction from Smartphone Accelerometers Using Deep Neural Networks. Accessed on April 12th, 2021 at www.ncbi.nlm.nih.gov/pmc/articles/PMC6111255/
-- Madge, Robert (2017, August 17th). Five loopholes in the GDPR. Accessed on April 12th, 2021 at medium.com/mydata/five-loopholes-in-the-gdpr-367443c4248
-- Smith, Niel (2021, February 19th). Monitor your injury recovery and mobility using your iPhone, MyHealthyApple. Accessed on April 12th, 2021 at www.myhealthyapple.com/monitor-your-injury-recovery-and-mobility-using-your-iphone/
-- Thomas, Bernd (2017). SensorLo‪g‬: Log and Stream Sensor Data. Retrieved on April 9th, 2021, from apps.apple.com/us/app/sensorlog/id388014573
-- Weckert, Simon (2020). Google Maps Hack. Accessed on April 12th, 2021 at www.simonweckert.com/googlemapshacks.html
+- Apple (2020). Location Services & Privacy. Accessed on April 12th, 2021 at <https://support.apple.com/en-us/HT207056>
+- Apple (2021). AirTag. Accessed on April 21th, 2021 at <https://www.apple.com/airtag/>
+- Entis, Laura (2015, July 31st). Ads can now tell how fast your heart is beating, The Guardian. Accessed on April 12th, 2021 at <https://www.theguardian.com/lifeandstyle/2015/jul/31/biometric-data-apple-wimbledon-facebook-mindshare-affectiva-unilever-coca-cola-mars>
+- Hernández Sánchez, Sara; Fernández Pozo, Rubén; Hernández Gómez, Luis A. (2018). Estimating Vehicle Movement Direction from Smartphone Accelerometers Using Deep Neural Networks. Accessed on April 12th, 2021 at <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6111255/>
+- Madge, Robert (2017, August 17th). Five loopholes in the GDPR. Accessed on April 12th, 2021 at <https://medium.com/mydata/five-loopholes-in-the-gdpr-367443c4248>
+- Smith, Niel (2021, February 19th). Monitor your injury recovery and mobility using your iPhone, MyHealthyApple. Accessed on April 12th, 2021 at <https://www.myhealthyapple.com/monitor-your-injury-recovery-and-mobility-using-your-iphone/>
+- Thomas, Bernd (2017). SensorLo‪g‬: Log and Stream Sensor Data. Retrieved on April 9th, 2021, from <https://apps.apple.com/us/app/sensorlog/id388014573>
+- Weckert, Simon (2020). Google Maps Hack. Accessed on April 12th, 2021 at <http://www.simonweckert.com/googlemapshacks.html>
 {: .references-list}
 
 [^1]: Move Lab (back then called “moovel lab”) did in 2017 [an enjoyable project to display how a self-driving car “sees.”](https://benedikt-gross.de/projects/who-wants-to-be-a-self-driving-car) It is a fun way to understand how machines see and translate images into their language.

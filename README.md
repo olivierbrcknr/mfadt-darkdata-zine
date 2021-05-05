@@ -2,10 +2,6 @@
 
 This is the zine repository for the Spring 2021 class "Dark Data" by [David Carroll](https://twitter.com/profcarroll) and [Melanie Crean](http://www.melaniecrean.com/) in the program [MFA Design & Technology](https://www.newschool.edu/parsons/mfa-design-technology/) at Parsons School of Design.
 
-## Articles and Contributors
-
-* [I Have Nothing to Hide](_posts/2021-04-28-I-Have-Nothing-to-Hide.md) by Salil Parekh
-
 ## Adding an article
 
 ### Text
@@ -20,9 +16,10 @@ Each file contains a specific head, enclosed by `---` breaks. It looks similarly
 
 ```md
 title: Example Article
-desc: A test description
+desc: A one sentence description
 author: Raymond Holt
-categories: A
+categories: ["Category"]
+image: link/toMyThumbnail.jpg
 ```
 
 Please fill this out according to your article.
