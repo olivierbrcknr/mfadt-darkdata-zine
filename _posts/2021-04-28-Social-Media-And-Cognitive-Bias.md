@@ -1,9 +1,12 @@
 ---
-title: Social media & cognitive bias
+title: Social Media & Cognitive Bias
 desc: How social media feeds off our cognitive bias and strategies to deal with it
 author: Morgane Borzee
 categories: ["Dark Connections"]
+image: "cognitiveBias/ThumbCognitiveBias.gif"
 ---
+
+# Social Media & Cognitive Bias
 
 Welcome to the post-truth era, an era where the proliferation of fake news and conspiracy theories is only matched by the disappearance of objective standards for truth. How to make sense of things in such a polarized world? Is it becoming more and more difficult to have healthy debates over beliefs and events? A post-truth era entails circumstances by which “objective facts are less influential in shaping public opinion than appeals to emotion and personal belief”. In this article, we are going to explore how social media, cognitive bias and news media consumption result in an information trap and how to plan strategies against it. Let’s begin with some psychology principles.
 

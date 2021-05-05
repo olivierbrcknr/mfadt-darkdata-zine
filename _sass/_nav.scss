@@ -9,7 +9,7 @@
   font-weight: 700;
   position: relative;
   z-index: 16;
-  transition: -webkit-text-stroke-color 0.25s;
+  // transition: -webkit-text-stroke-color 0.25s;
 
   &:hover {
     -webkit-text-stroke-color: $color-highlight;

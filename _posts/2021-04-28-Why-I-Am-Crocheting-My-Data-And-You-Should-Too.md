@@ -5,6 +5,8 @@ author: Michelle Nee
 categories: ["Data Futures"]
 ---
 
+# Why I am crocheting my data and you should too
+
 For years there has been a Google Drive folder nestled among my work and school documents titled, “personal”. True to its name, the folder contained all of my personal information I needed (or was told I needed) for things like registration, applications, purchases, and even a text file of all my Google searches. Then I received a “CRITICAL ALERT” email. My information was part of a data breach.
 
 We often look at our personal computer as a hub of it all. The entirety of my identity has rested  among text files and photos for years. Crucial information that I am too worried about having in a drawer, where someone else could find it, was put onto my Google drive. I grew up alongside the growing opacity within the Technology industry. It was easy to rest on the laurels of large tech companies’ credentials. But after the breach, I had to begin asking myself if the same tool I use to make myself known to the digital world and connect with others is the same tool I should use to store my personal data. After having my data leak as a part of a large Google data breach, I downloaded my data from Google using Takeout and sat face to face with the fact that I was the last person to get my hands on this information. Encryption became a (somewhat necessary) fascination for me. For years my fear had been hackers getting  hold of my information. Now, my fear became not having control of my personal data. If by placing my data in cyberspace I am left vulnerable, why not store it by non-digital means?

@@ -3,7 +3,7 @@ title: My Walk To The Curry Wurst Restaurant
 desc: An experiment to see what our smartphones are actually sensing.
 author: Olivier Brückner
 categories: ["Digital Forensics"]
-image: "curryWurst/map.jpg"
+image: "myWalk/ThumbMyWalk.gif"
 ---
 
 We have it always with us, the tiny computer in our pockets: the smartphone. It is this piece of wonder, which lets us communicate with anyone around the world, playing interactive games, measuring our apartment without needing a measuring tape, or taking incredible pictures. It is increasingly implemented in our day-to-day, helping us in every aspect of our life. Since its release in 2007, displays sharpened, cameras improved and multiplied, and new sensors added, such as a LiDAR sensor which can 3D scan your surroundings. Improvements enable new apps to arise, anticipating every little step we are taking to make our lives as easy as possible.
@@ -39,7 +39,7 @@ To understand what our smartphones are capable of, we first need to understand w
 
 To understand why this is relevant, let’s have a brief look at how machine learning works. Let’s take an example. We have our hypothetical user who is walking along a street, and we can see the accelerometer data. If we see that the acceleration is oscillating in a specific rhythm, we could recognize the user’s leg swinging back and forth as the user is walking. If the values are still, it means the phone—or leg—is not moving anymore, and our user could be standing. You can test this in the data I recorded below.
 
-![iPhone recording animation]()
+![Walking recording]( {{ site.baseurl }}/assets/img/myWalk/recordingAnimation.gif )
 
 With this simple information, we can already figure out when our user was moving and when not. Now our smartphones contain many more sensors, giving us information about the altitude, so for example, the floor we are currently on, the exact location through GPS coordinates, and much more. Combining these datasets gives us very detailed information. For example, how fast the user was walking from A to B, where this A, B, and all steps in between were, if they were going uphill or downhill, if the phone was picked up during this time, and much more.
 
@@ -67,7 +67,7 @@ Google’s data was far more thorough. It displayed every location search I ever
 
 ## Collecting my smartphone data for an hour
 
-![Image of my walk]( {{ site.baseurl }}/assets/img/curryWurst/map.jpg )
+![My walking path]( {{ site.baseurl }}/assets/img/myWalk/map.jpg )
 
 Retrieving my data from the smartphone’s provider did not get me where I wanted. So, time to explore my second approach: Collecting the data myself to visualize its potential. Using the app SignalLog allowed me to simply start collecting (Thomas 2017).
 

@@ -29,15 +29,21 @@
             {% case category[0] %}
               {% when "Digital Forensics" %}
                 
-                Description for Digital Forensics
+              <p>
+                How can we at least know what information about us is available online? How can we take charge of the data that exists about us? So much of our information is traded and deemed valuable. This section will cover topics regarding discovering information that might otherwise be hidden or obscured for the average user. Resources like APIs, Google Takeout, and OSINT tools allow us to do small-scale investigations with regards to where our data lives and what data exists about us. However just because we are aware of this data does not mean that we are in control of it. Google Takeout  is a prime example. While we can ask Google to give us its data on us, that does not mean or imply that we then own that data. We are simply being given a copy of that data that lives on their servers and will continue to do so. We are being given the illusion of control and this is intentional. It allows the average user to assume that they now own their data after going through a long application process to be granted a copy.  The reality is that we are being granted a window into a massive machine, the machinations of which are unclear to even the most tech-savvy of us. This section will explore those windows and what they teach us both about ourselves and about the technology that we utilize.  
+              </p>
 
               {% when "Dark Connections" %}
                 
-                Description for Dark Connections
+              <p>
+                The advent of new technology has made it easier than ever to communicate with anyone across the globe. with the amount of data that is collected on each of us, is easier and easier for people to find us regardless of their intentions. While recent software development has focused on security and the aspect of passwords in cybersecurity as that comes into play during remote work, not as much attention is given to the fact that so much of our information is already available online through our social media platforms, and we volunteer this information willingly as a form of social capital. While it's true that technology companies trade data in order to sell advertisements and products, this is also happening on a micro-scale. Because it is increasingly easy to find someone based on a few pieces of information, such as what school they went to, buildings in the background of pictures, and the tail number of a flight, it is becoming increasingly hard to hide from people we would rather not find us. This perspective makes the entire internet feel scary. As we volunteer more and more information about our personal lives to our employers and our friends online, we have to ask, what are we getting in return- and how do we keep ourselves safe when anyone can find us? Although governments and large corporations are often the metaphorical Boogeyman, the truth is that they  are far less interested in you or I than someone who knows us personally and has an agenda that involves us. In the realm of dark connections we talk about the importance of keeping yourself safe online and what that means in a world where privacy is altogether uncommon. 
+              </p>
 
               {% when "Data Futures" %}
                 
-                Description for Data Futures
+              <p>
+                This section will explore where exactly dark data is going. As the public becomes more aware of data breaches, and unsolicited data-gathering that was previously  are unfortunately a reality. Thousands of users having their data stolen is unfortunately no longer an outlier scenario. In fact, it is an unfortunate fact of life for many Americans and people across the globe. Since we have little control over the use of our data, and can only choose to opt-in or opt out of services necessary to a world where most of our lives and our jobs currently exist only online thanks for the pandemic. This section will explore what new systems and solutions are possible in this kind of wild west scenario in the future uses of existing technology that might help us find Solutions to the issues facing dark data and our privacy
+              </p>
 
               {% else %}
 
@@ -109,7 +115,75 @@
         <div class="centerBlock aboutText">
           
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident consequuntur quod culpa dolorum perferendis distinctio, atque quas quae architecto nobis ducimus doloremque neque voluptatum veniam qui eaque tempore quasi tempora!
+            This digital edition was compiled from scholarship, research, and creative practice in spring 2021 to fulfill the requirements for <a href="https://courses.newschool.edu/courses/PSAM5752/3055/">PSAM 5752 Dark Data</a>, a course at Parsons School of Design.
+          </p>
+
+          <h4>
+            Editors
+          </h4>
+
+          <ul>
+            <li>
+              Sarah Nichols
+            </li>
+            <li>
+              Apurv Rayate
+            </li>
+          </ul>
+
+          <h4>
+            Art Directors
+          </h4>
+
+          <ul>
+            <li>
+              Nishra Ranpura
+            </li>
+            <li>
+              Pavithra Chandrasekhar
+            </li>
+          </ul>
+
+          <h4>
+            Technology Directors
+          </h4>
+
+          <ul>
+            <li>
+              Ege Uz
+            </li>
+            <li>
+              Olivier Brückner
+            </li>
+          </ul>
+
+          <h4>
+            Faculty
+          </h4>
+
+          <ul>
+            <li>
+              David Carroll
+            </li>
+            <li>
+              Melanie Crean
+            </li>
+          </ul>
+          
+          <h4>
+            Contributors
+          </h4>
+
+          <ul>
+            {% for post in site.posts %}
+              <li>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.author }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+
+          <p>
+            This site needs no privacy policy because we did not install any tracking code and this site does not store any cookies.
           </p>
         
         </div>

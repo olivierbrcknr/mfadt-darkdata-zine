@@ -173,11 +173,16 @@
       }
     }
     .drawerContent {
-      max-height: 1000px;
-
-      @media screen and (max-width: $break-mobile) {
-        max-height: 2000px;
+      max-height: 2000px;
+      @media screen and (max-width: $break-tablet) {
+        max-height: 3000px;
       }
     }
+  }
+}
+
+.aboutText {
+  ul {
+    margin-bottom: 1rem;
   }
 }

@@ -3,7 +3,10 @@ title: Local News + Dark Data
 desc: Reviving and supporting local news is a vital step in broaching the dangerous and growing political divide escalated by rampant misinformation online and off. 
 author: Isabel Anguera
 categories: ["Data Futures"]
+image: "localNews/ThumbLocalNews.gif"
 ---
+
+# Local News + Dark Data
 
 ## Introduction
 Fake news was deemed word of the year in 2017. Its election brings to light the massive issue of misinformation and the way it lives and grows on the internet. Matched with the digital profiles big data curates on us, our own opinions are reflected back at us, creating a tunnel vision view of the world and politics. This effect, called the echo chamber, pushes the divide between those with opposing profiles, or opinions, until a tipping point is reached and a radical event is the outcome.
@@ -26,7 +29,7 @@ Local news means to inform their readers on current events and local happenings,
 
 Newspapers, not only on the local level, have struggled to survive as society moved largely online. Paywalls, the digital barriers that tell you you must pay or subscribe to keep reading, have been a way of accommodating their lack of funding, though this brings with it a different set of problems. In his Wired article [“Paywalls, Newsletters, and the New Echo Chamber,"](https://www.wired.com/story/paywalls-newsletters-and-the-new-echo-chamber/?fbclid=IwAR2ERHojo-D5heJHEbV5urZQ5ZK6DPV8qdyx596q-Y37C4tTik_GUm6l0Zs) Mark Hill makes the point that these paywalls are restricting broader access to news for those who can’t afford to pay the subscription fees; a new echo chamber is being forged by being forced to choose which news outlets to pay for, if you can afford any at all. Subscriptions become expensive once they start adding up: for more perspectives on an issue or current event, more and more money is required. Hill quotes Damian Radcliffe, a journalism professor at University of Oregon, as he notes two possible outcomes to this effect:
 
->‘The first is an increased likelihood that some people’s media diets will become narrower, relying on a smaller breadth of [paid] sources,’ Radcliffe wrote. ‘The second scenario is that people who are priced out of news—or who do not see paying for news as a priority—will be pushed towards free news, some of which is more dubious in nature.’ In other words, the news sites that do extensive reporting will be expensive, while the ‘news' sites that churn outrage and spin tales of secret pedophile cabals remain cheap; and the cost of the former could send unsuspecting consumers towards the latter (qtd. Hill).
+> ‘The first is an increased likelihood that some people’s media diets will become narrower, relying on a smaller breadth of [paid] sources,’ Radcliffe wrote. ‘The second scenario is that people who are priced out of news—or who do not see paying for news as a priority—will be pushed towards free news, some of which is more dubious in nature.’ In other words, the news sites that do extensive reporting will be expensive, while the ‘news' sites that churn outrage and spin tales of secret pedophile cabals remain cheap; and the cost of the former could send unsuspecting consumers towards the latter (qtd. Hill).
 
 This is very important to be wary of heading into the future—two companies to note in relation to the ‘news’ Radcliffe talks about are Journatic and Acronym. Both are funding growing networks of digital ‘news’ sites that pose as local newspapers, but are essentially pay for play services funded by partisan groups. In an investigation by the New York Times, conservative-leaning Journatic was found to be paying writers to draft stories based on a script or agenda. Davey Alba and Jack Nicas write that though the sites “do not post information that is outright false, the operation is rooted in deception, eschewing hallmarks of news reporting like fairness and transparency (Alba).” This is the same with Courier, an Acronym owned ‘newspaper’ writing stories with a liberal agenda. If content like this is the only thing available for free, it adds to the already massive problem of misinformation and the first and current example of the echo chamber effect. The more in line an article is with a person’s already influenced stance, whether it be true or not, will be more successful and likely to appear on a timeline. It works for big data too—they see this content and place you deeper into the conservative or liberal leaning box you’re already in—you and your data become more valuable because you can be predicted. 
 
@@ -41,27 +44,15 @@ Local journalism is worth the fight and reviving and protecting it are essential
 
 ##### Works Cited
 
-Abernathy, Penny Muse. "Why Local News Matters, and What We Can Do to Save It." *New York 
-State Bar Association.* New York State Bar Association, 24 Jan. 2020. Web. 13 Apr. 2021.
-
-Alba, Davey, and Jack Nicas. "As Local News Dies, a Pay-for-Play Network Rises in Its Place." *The New York Times.* The New York Times, 18 Oct. 2020. Web. 10 Apr. 2021.
-
-Cantwell, Maria. *Local Journalism: America’s Most Trusted News Sources Threatened.* Rep. 
-U.S. Senate Committee on Commerce, Science, and Transportation. Print.
-
-"Digital Media Literacy: What Is an Echo Chamber?" *GCFGlobal.org.* Goodwill Community 
-Foundation, Inc. Web. 14 Apr. 2021.
-
-Edelman, Gilad. "Fake News Gets More Engagement on Facebook-But Only If It's Right-Wing." 
-*Wired.* Conde Nast, 3 Mar. 2021. Web. 13 Apr. 2021.
-
-Hill, Mark. "Paywalls, Newsletters, and the New Echo Chamber." *Wired.* Conde Nast, 12 Dec. 2020. Web. 10 Apr. 2021.
-
-Morris, Sam, and Surya Mattu. "Split Screen: How Different Are Americans' Facebook Feeds? – The Markup." *Split Screen: How Different Are Americans' Facebook Feeds? – The Markup.* Ed. Jill Jaroff and Julia Angwin. The Markup, 1 Jan. 2021. Web. 10 Apr. 2021.
-
-Trejbal, Christian. "U.S. Sen. Maria Cantwell Wants to save Local Newspapers." *The Seattle Times.* The Seattle Times, 02 Nov. 2020. Web. 13 Apr. 2021.
-
-
+* Abernathy, Penny Muse. "Why Local News Matters, and What We Can Do to Save It." *New York State Bar Association.* New York State Bar Association, 24 Jan. 2020. Web. 13 Apr. 2021.
+* Alba, Davey, and Jack Nicas. "As Local News Dies, a Pay-for-Play Network Rises in Its Place." *The New York Times.* The New York Times, 18 Oct. 2020. Web. 10 Apr. 2021.
+* Cantwell, Maria. *Local Journalism: America’s Most Trusted News Sources Threatened.* Rep. U.S. Senate Committee on Commerce, Science, and Transportation. Print.
+* "Digital Media Literacy: What Is an Echo Chamber?" *GCFGlobal.org.* Goodwill Community Foundation, Inc. Web. 14 Apr. 2021.
+* Edelman, Gilad. "Fake News Gets More Engagement on Facebook-But Only If It's Right-Wing." *Wired.* Conde Nast, 3 Mar. 2021. Web. 13 Apr. 2021.
+* Hill, Mark. "Paywalls, Newsletters, and the New Echo Chamber." *Wired.* Conde Nast, 12 Dec. 2020. Web. 10 Apr. 2021.
+* Morris, Sam, and Surya Mattu. "Split Screen: How Different Are Americans' Facebook Feeds? – The Markup." *Split Screen: How Different Are Americans' Facebook Feeds? – The Markup.* Ed. Jill Jaroff and Julia Angwin. The Markup, 1 Jan. 2021. Web. 10 Apr. 2021.
+* Trejbal, Christian. "U.S. Sen. Maria Cantwell Wants to save Local Newspapers." *The Seattle Times.* The Seattle Times, 02 Nov. 2020. Web. 13 Apr. 2021.
+{: .references-list}
 
 
 
