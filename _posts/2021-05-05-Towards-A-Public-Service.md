@@ -60,12 +60,12 @@ Throughout the past year of isolation, the internet has been an invaluable lifel
 <small>[Mary Ann Badavi](https://www.maryannbadavi.com/) is a second year MFA Design & Technology student who works at the intersection of data and social justice. She believes in the power of technologists to inform policy and change.</small>
 
 
-[^1]: Ovide, Shira. “Congress Doesn't Get Big Tech. By Design.” The New York Times. The New York Times, July 29, 2020. https://www.nytimes.com/2020/07/29/technology/congress-big-tech.html. 
-[^2]: Burch, Sean. “'Senator, We Run Ads': Hatch Mocked for Basic Facebook Question to Zuckerberg.” The Wrap. The Wrap, April 10, 2018. https://www.thewrap.com/senator-orrin-hatch-facebook-biz-model-zuckerberg/. 
-[^3]: Automatad Team. “Real Time Bidding - A Beginner's Guide.” Automatad, January 27, 2021. https://headerbidding.co/real-time-bidding/. 
-[^4]: Culliford, Elizabeth, and Sheila Dang. “Facebook to End Ban on Political Ads in United States.” Reuters. Thomson Reuters, March 3, 2021. https://www.reuters.com/article/us-usa-election-social-media-idUSKBN2AV2GQ. 
-[^5]: Herndon, Astead W. “Alexandria Ocasio-Cortez on Biden's Win, House Losses, and What's Next for the Left.” The New York Times. The New York Times, November 8, 2020. https://www.nytimes.com/2020/11/07/us/politics/aoc-biden-progressives.html. 
-[^6]: Lomas, Natasha. “GDPR's Two-Year Review Flags Lack of 'Vigorous' Enforcement.” TechCrunch. TechCrunch, June 24, 2020. https://techcrunch.com/2020/06/24/gdprs-two-year-review-flags-lack-of-vigorous-enforcement/?guccounter=1. 
-[^7]: Sam Bowman, Opinion Contributor. “The Folly of Cicilline's 'Glass-Steagall for Tech'.” TheHill. The Hill, September 8, 2020. https://thehill.com/blogs/congress-blog/lawmaker-news/515381-the-folly-of-cicillines-glass-steagall-for-tech. 
-[^8]: K. Sabeel Rahman &amp; Zephyr Teachout. “From Private Bads to Public Goods: Adapting Public Utility Regulation for Informational Infrastructure.” RSS, February 4, 2020. https://knightcolumbia.org/content/from-private-bads-to-public-goods-adapting-public-utility-regulation-for-informational-infrastructure. 
-[^9]: “A Short History of the Web.” CERN. Accessed May 2, 2021. https://home.cern/science/computing/birth-web/short-history-web. 
+[^1]: Ovide, Shira. “Congress Doesn't Get Big Tech. By Design.” The New York Times. The New York Times, July 29, 2020. <https://www.nytimes.com/2020/07/29/technology/congress-big-tech.html>. 
+[^2]: Burch, Sean. “'Senator, We Run Ads': Hatch Mocked for Basic Facebook Question to Zuckerberg.” The Wrap. The Wrap, April 10, 2018. <https://www.thewrap.com/senator-orrin-hatch-facebook-biz-model-zuckerberg/>. 
+[^3]: Automatad Team. “Real Time Bidding - A Beginner's Guide.” Automatad, January 27, 2021. <https://headerbidding.co/real-time-bidding/>. 
+[^4]: Culliford, Elizabeth, and Sheila Dang. “Facebook to End Ban on Political Ads in United States.” Reuters. Thomson Reuters, March 3, 2021. <https://www.reuters.com/article/us-usa-election-social-media-idUSKBN2AV2GQ>. 
+[^5]: Herndon, Astead W. “Alexandria Ocasio-Cortez on Biden's Win, House Losses, and What's Next for the Left.” The New York Times. The New York Times, November 8, 2020. <https://www.nytimes.com/2020/11/07/us/politics/aoc-biden-progressives.html>. 
+[^6]: Lomas, Natasha. “GDPR's Two-Year Review Flags Lack of 'Vigorous' Enforcement.” TechCrunch. TechCrunch, June 24, 2020. <https://techcrunch.com/2020/06/24/gdprs-two-year-review-flags-lack-of-vigorous-enforcement>. 
+[^7]: Sam Bowman, Opinion Contributor. “The Folly of Cicilline's 'Glass-Steagall for Tech'.” TheHill. The Hill, September 8, 2020. <https://thehill.com/blogs/congress-blog/lawmaker-news/515381-the-folly-of-cicillines-glass-steagall-for-tech>. 
+[^8]: K. Sabeel Rahman &amp; Zephyr Teachout. “From Private Bads to Public Goods: Adapting Public Utility Regulation for Informational Infrastructure.” RSS, February 4, 2020. <https://knightcolumbia.org/content/from-private-bads-to-public-goods-adapting-public-utility-regulation-for-informational-infrastructure>. 
+[^9]: “A Short History of the Web.” CERN. Accessed May 2, 2021. <https://home.cern/science/computing/birth-web/short-history-web>. 
