@@ -45,5 +45,5 @@ In a wider scope, since it is difficult to convict an abuser of these cyber crim
 
 Malath Kamaluldeen is a third year BFA Design and Technology student and an advocate for the abolition of invasive technology practices. You can reach her through [Twitter](https://twitter.com/iraqinancyajram) or [Github](https://github.com/malathk).
 
-[^1]: “Laws.” _Coalition Against Stalkerware_, 24 Nov. 2019, <stopstalkerware.org/state-laws/>. 
+[^1]: “Laws.” _Coalition Against Stalkerware_, 24 Nov. 2019, <www.stopstalkerware.org/state-laws/>. 
 [^2]: TEDtalksDirector. “What You Need to Know about Stalkerware / Eva GALPERIN,” March 30, 2020. <www.youtube.com/watch?v=xzWFrHHTrs8>. 
