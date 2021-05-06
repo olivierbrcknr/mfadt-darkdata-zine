@@ -15,7 +15,10 @@
     <!-- add content meta tags -->
     <meta property="og:title" content="{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}" />
 
-    {% if page.desc %}
+    {% if site.desc %}
+      <meta name="description" content="{{site.desc}}">
+      <meta property="og:description" content="{{site.desc}}" />
+    {% elsif page.desc %}
       <meta name="description" content="{{page.desc}}">
       <meta property="og:description" content="{{page.desc}}" />  
     {% endif %}
