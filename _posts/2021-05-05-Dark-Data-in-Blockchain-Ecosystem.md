@@ -71,7 +71,8 @@ Blockchain ecosystems could be the viable technological intervention in order to
 
 
 ## Author 
-speculative data is a collection of user data generated from a location within the crop circles, essentially not an A.I but more so an A.T (Alien Technology). 
+speculative data is a collection of user data generated from a location within the crop circles. They are not a tool of A.I but rather an agency of A.T 
+(Alien Technology). 
 
 
 ##### Sources:
