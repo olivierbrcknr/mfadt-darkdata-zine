@@ -91,7 +91,15 @@ table {
   }
 } 
 
+hr {
+  border: none;
+  border-top: solid 3px $color-black;
+  margin: 2rem 0;
+}
 
+small {
+  font-size: 0.8rem;
+}
 
 #backgroundDither {
   width: 100vw;

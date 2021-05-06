@@ -16,7 +16,7 @@ That may be the end of my interaction with the TVS, but what about the photo tak
 
 As an immigrant to the U.S., I'm part of the second group, whose images are collected and operationalized without asking for consent, and will populate DHS datasets for decades to come. I've travelled between the U.S. and my home country of Turkey so many times over the years that the DHS could construct a timeline of me going through puberty if they wanted to. And while the TVS is a significant milestone in the use of facial recognition technology and biometric data collection, these practices are not new: they have been deployed and developed on immigrants and noncitizens before being rolled out to affect Americans. It's important to keep that fact in mind as it points to the larger pattern in how the U.S. develops its policy around domestic security, policing and surveillance: by co-opting practices and technology it applies to its "aliens". Examining the TVS in-depth, I will attempt to illustrate how its development parallels the extensive surveillance and data collection that the U.S. already imposes on non-citizens, with the potential to go far beyond.
 
-### Visions of Facial Recognition
+## Visions of Facial Recognition
 
 Aside from privacy concerns, there are plenty of reasons to be critical of facial recognition technology and oppose its increased use in any field. One reason is, as [studies](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf) [indicate](https://www.washingtonpost.com/technology/2019/12/19/federal-study-confirms-racial-bias-many-facial-recognition-systems-casts-doubt-their-expanding-use/), it's largely inaccurate in actually recognizing faces, especially faces of people of color, and women. The use of commercial facial recognition software in policing  across cities in the US have already led to the [wrongful](https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html) [arrests](https://www.npr.org/2020/06/24/882683463/the-computer-got-it-wrong-how-facial-recognition-led-to-a-false-arrest-in-michig?t=1620252342721) of Black people. CBP touts a "match rate of more than 97 percent" across their applications of facial recognition technology (including the TVS),[^4] which, with over 23 million people scanned, still means an estimated 460,000 to 690,000 people being misidentified each year.
 
@@ -42,7 +42,7 @@ Putting all of this together, this vision of airport security and facial recogni
 
 The paranoid flight of fancy I'm taken on by all of this leads me towards an airport that is characterized by a state of total surveillance, where information is extracted out of people constantly, passively, simply as a precondition of being at the airport, and without necessarily them knowing about it or consenting to it. Reflecting on my own experience as a traveler and immigrant to the U.S. coming from Turkey, it doesn't feel too far off, as I've often felt like I've had to provide information about myself and open myself to scrutiny without much of a choice.
 
-### Total Surveillance
+## Total Surveillance
 
 Across their documents and communication, CBP states that they're mandated by the government to deploy and develop the TVS (and facial recognition in a broader sense), citing a number of laws that begin with the 1996 Illegal Immigration Reform and Immigrant Responsibility Act, which "authorized the U.S. Government to use an automated system to record arrivals and departures of non-U.S. citizens at all . . . ports of entry".[^19] Though that is where CBP begins their history, the language shifts significantly in the laws following 9/11, as is often the case with policies relating to surveillance. After 9/11, the authorization transformed to be "for the creation of a nationwide biometric entry-exit system",[^20] which has significant differences. First, the scope was expanded and abstracted from non-U.S. citizens to nationwide. Second, what was meant to be recorded changed, from arrivals and departures to biometric data, relating directly to people's faces, fingerprints, identities. "The 9/11 Commission determined that implementing such a system [the TVS] is 'an essential investment in our national security'"[^21], one CBP article from 2019 ends, positioning the program as a product of the national paranoia that 9/11 has caused, not a vision that seeks to go beyond it.
 
@@ -56,11 +56,10 @@ Under the current iteration of the TVS, U.S. citizens who consent to its use on 
 
 If you still have doubts whether the TVS will expand and calcify into something more invasive and draconian, I urge you to consider that there are three times as many domestic travelers in the U.S. as international travelers[^24], ask yourself whether your country would stop themselves from tapping into that fertile data capital.
 
-### About the Author
+---
 
 [Ege Uz](https://egeuz.com/) is a second year MFADT student. He likes the Internet, and dislikes airports.
 
-### Footnotes
 
 [^1]: U.S. Customs and Border Protection. "CBP Trade and Travel Report Fiscal Year 2020." February 2021. <[https://www.cbp.gov/sites/default/files/assets/documents/2021-Feb/CBP-FY2020-Trade-and-Travel-Report.pdf](https://www.cbp.gov/sites/default/files/assets/documents/2021-Feb/CBP-FY2020-Trade-and-Travel-Report.pdf)>
 [^2]: U.S. Department of Homeland Security. "Privacy Impact Assessment for the Traveler Verification Service." November 14, 2018. <[dhs.gov/sites/default/files/publications/privacy-pia-cbp056-tvs-february2021.pdf](http://dhs.gov/sites/default/files/publications/privacy-pia-cbp056-tvs-february2021.pdf)>
@@ -76,7 +75,7 @@ If you still have doubts whether the TVS will expand and calcify into something 
 [^12]: DHS. "Privacy Impact Assessment for the Traveler Verification Service." November 14, 2018. p. 2.
 [^13]: ibid., pp. 7-8.
 [^14]: ibid., p. 48.
-[^15]: "Air | CBP Biometrics". *U.S. Customs and Border Protection. <*[https://biometrics.cbp.gov/air](https://biometrics.cbp.gov/air)>
+[^15]: "Air / CBP Biometrics". *U.S. Customs and Border Protection. <[https://biometrics.cbp.gov/air](https://biometrics.cbp.gov/air)>
 [^16]: ibid., p. 11.
 [^17]: ibid., p.18
 [^18]: Stanley. "U.S. Customs and Border Protection's Airport Face Recognition Program." 

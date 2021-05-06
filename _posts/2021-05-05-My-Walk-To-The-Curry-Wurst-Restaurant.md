@@ -192,10 +192,10 @@ We profit from this knowledge by getting another convenience layer on services a
 I do not have an answer to these questions. You could escape from this tracking madness by using a feature phone instead of a smartphone, but then again, this would limit our daily lives in today’s world drastically. Yet, I hope that knowing what your smartphone is capable of, additionally to the software layer, gives you a better understanding of it.
 
 
-##### About the Author
+---
 
-Olivier Brückner is a first year MFADT student. He is fascinated by techonological hardware of any kind.
-[Portfolio](https://olivierbrueckner.de/) — [Twitter](https://twitter.com/olivierbrcknr) 
+<small>Olivier Brückner is a first year MFADT student. He is fascinated by techonological hardware of any kind.
+[Portfolio](https://olivierbrueckner.de/) — [Twitter](https://twitter.com/olivierbrcknr) </small>
 
 
 ##### References

@@ -70,13 +70,13 @@ Individual concerns on dark data will increase in coming days and years. Dark da
 Blockchain ecosystems could be the viable technological intervention in order to protect people’s privacy and data rights. This sort of new technology could be developed in public- private collaboration in order to manage dark data. For example, major data generating activities of TIFAAANG (Twitter, Instagram, Facebook, Apple, Amazon, Alibaba, Netflix, Google) and other corporations can use “blockchain ecosystems'' to keep individuals’ data secured and compensated. Meanwhile, the government could (and should) introduce new rules for blockchain data management and privacy, because the technology has the potential to bridge the trust among all players in the ecosystem: government, businesses and people. 
 
 
-##Author 
+## Author 
 speculative data is 
 
 
 ##### Sources:
 
-<https://www.cnbc.com/2021/03/30/new-york-state-senate-passes-bill-to-legalize-recreational-weed.html#:~:text=Key%20Points-,Gov.,the%20drug%20for%20recreational%20use>
+- <https://www.cnbc.com/2021/03/30/new-york-state-senate-passes-bill-to-legalize-recreational-weed.html#:~:text=Key%20Points-,Gov.,the%20drug%20for%20recreational%20use>
 - <https://www.coindesk.com/price/dogecoin>
 - <https://www.forbes.com/advisor/investing/what-is-dogecoin/>
 - <https://www.brides.com/does-online-dating-work-5112033#:~:text=The%20Research,something%20casual%20or%20long%2Dterm.>

@@ -40,7 +40,7 @@ IT Grids is also the developer of the Seva Mitra app, created by the TDP (Telugu
 
 The National Social Registry in it’s proposed form will hold a lot more data about Indian citizens than it requires to efficiently identify eligible candidates for government welfare schemes. The lack of transparency in the creation of this registry, and it’s usage is very concerning as well. An absence of personal data protection rights and the inability for courts to rule on data related matters gives the state disproportionate powers, and this power imbalance must be corrected. The NSR is a powerful tool, and in the hands of law enforcement can be used as a tool of mass surveillance, keeping track of all activities. You may not have anything to hide today, but perhaps in the future your activities, or your identity could make you a target. We’ve seen the targeting of voters in Telangana, and further allegations of the same were seen in Puducherry. The NSR is a tool, but if used with malicious intent can be used as a weapon. 
 
-##### Author
+--- 
 
 Salil Parekh is a student at The New School. He writes often, but scarcely publishes. 
 

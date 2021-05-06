@@ -39,9 +39,11 @@ There is no simple answer to the complexities of stalkerware. Eva Galperin is th
 
 In a wider scope, since it is difficult to convict an abuser of these cyber crimes due to lack of regulation, as well as the intricacies of the process of detecting and safely removing malware without putting the victim at more risk, it is hard to imagine a clear solution to this issue. One possible solution is companies like Apple and Google prohibiting any distribution of stalkerware in their markets, but the deep web is still lively alongside the developers of these tools, and it is likely that there are ways to surpass blocking efforts by big tech corporations.
 
- We can continue the fight for proper legislation, as well as education on domestic violence and abuse cycles in order to aid victims with spotting signs of abuse. Given victims in an abusive relationship are exposed to blindspots due to gaslighting and cognitive dissonance, education is the most effective way to allow the victim to see clearly, eventually providing the strength to rid themselves of this digital virus. Another way of aiding victims would be expanding budgets for protection from the abuse, such as public shelters that are essentially a buffer room, filled with the tools and support to propel the planning of their next steps to safety. 
- 
- If you have suspicions that you have a stalker who installed stalkerware on your device, check out this [Safety Toolkit By the Coalition Against Stalkerware](https://stopstalkerware.org/get-help/), as well looking through [Eva Galperin's page](https://stopstalkerware.org/get-help/)
+We can continue the fight for proper legislation, as well as education on domestic violence and abuse cycles in order to aid victims with spotting signs of abuse. Given victims in an abusive relationship are exposed to blindspots due to gaslighting and cognitive dissonance, education is the most effective way to allow the victim to see clearly, eventually providing the strength to rid themselves of this digital virus. Another way of aiding victims would be expanding budgets for protection from the abuse, such as public shelters that are essentially a buffer room, filled with the tools and support to propel the planning of their next steps to safety. 
+
+If you have suspicions that you have a stalker who installed stalkerware on your device, check out this [Safety Toolkit By the Coalition Against Stalkerware](https://stopstalkerware.org/get-help/), as well looking through [Eva Galperin's page](https://stopstalkerware.org/get-help/)
+
+---
 
 Malath Kamaluldeen is a third year BFA Design and Technology student and an advocate for the abolition of invasive technology practices. You can reach her through [Twitter](https://twitter.com/iraqinancyajram) or [Github](https://github.com/malathk).
 
