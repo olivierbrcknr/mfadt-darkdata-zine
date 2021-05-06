@@ -71,7 +71,7 @@ Blockchain ecosystems could be the viable technological intervention in order to
 
 
 ## Author 
-speculative data is 
+speculative data is Satoshi Nakamoto's cousin from Alabama. They are in a band called: The Alabama Einsteins.  
 
 
 ##### Sources:
