@@ -118,8 +118,8 @@ To show you the extensive data, here is one data entry—to put in perspective, 
   "locationHeadingY" : "-31.109329",
   "locationHeadingZ" : "-36.466125",
   "locationHorizontalAccuracy" : "18.383077",
-  "locationLatitude" : "xx",
-  "locationLongitude" : "xx",
+  "locationLatitude" : "xx", // obscured by Author
+  "locationLongitude" : "xx", // obscured by Author
   "locationMagneticHeading" : "93.705368",
   "locationSpeed" : "0.000000",
   "locationTimestamp_since1970" : "1617964271.999422",
@@ -194,8 +194,7 @@ I do not have an answer to these questions. You could escape from this tracking 
 
 ---
 
-<small>Olivier Brückner is a first year MFADT student. He is fascinated by techonological hardware of any kind.
-[Portfolio](https://olivierbrueckner.de/) — [Twitter](https://twitter.com/olivierbrcknr) </small>
+<small>[Olivier Brückner](https://olivierbrueckner.de/) is a first-year MFADT student. He is fascinated by the space between physical and digital. — [Twitter](https://twitter.com/olivierbrcknr) </small>
 
 
 ##### References

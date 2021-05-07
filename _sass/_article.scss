@@ -32,6 +32,7 @@ article {
     @include caption;
     display: block;
     margin: 0.5rem auto;
+    word-wrap: break-word;
   }
 
   iframe {

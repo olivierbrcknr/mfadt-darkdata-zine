@@ -2,10 +2,10 @@
 
 pre.highlight {
   @include code;
-  background: lighten( $color-font-reg, 90% );
+  background: lighten( $color-font-reg, 92% );
   padding: $padding-default;
   font-variant-ligatures: none;
-  font-size: 0.8rem;
+  font-size: 0.6rem;
   overflow-x: scroll;
 
   code {
@@ -18,12 +18,12 @@ pre.highlight {
 code {
   @include code;
 
-  background: lighten( $color-font-reg, 90% );
+  background: lighten( $color-font-reg, 92% );
   padding: 0px 4px;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
-.highlight .err { color: #93A1A1 } /* Error */
+.highlight .err { color: lighten( $color-font-reg, 70% ) } /* Error */
 .highlight .g { color: #93A1A1 } /* Generic */
 .highlight .k { color: #859900 } /* Keyword */
 .highlight .l { color: #93A1A1 } /* Literal */
@@ -62,7 +62,7 @@ code {
 .highlight .ni { color: #CB4B16 } /* Name.Entity */
 .highlight .ne { color: #CB4B16 } /* Name.Exception */
 .highlight .nf { color: #268BD2 } /* Name.Function */
-.highlight .nl { color: #93A1A1 } /* Name.Label */
+.highlight .nl { color: lighten( $color-font-reg, 40% ) } /* Name.Label */
 .highlight .nn { color: #93A1A1 } /* Name.Namespace */
 .highlight .nx { color: #555 } /* Name.Other */
 .highlight .py { color: #93A1A1 } /* Name.Property */
@@ -77,7 +77,7 @@ code {
 .highlight .sb { color: #586E75 } /* Literal.String.Backtick */
 .highlight .sc { color: #2AA198 } /* Literal.String.Char */
 .highlight .sd { color: #93A1A1 } /* Literal.String.Doc */
-.highlight .s2 { color: #2AA198 } /* Literal.String.Double */
+.highlight .s2 { color: $color-highlight } /* Literal.String.Double */
 .highlight .se { color: #CB4B16 } /* Literal.String.Escape */
 .highlight .sh { color: #93A1A1 } /* Literal.String.Heredoc */
 .highlight .si { color: #2AA198 } /* Literal.String.Interpol */

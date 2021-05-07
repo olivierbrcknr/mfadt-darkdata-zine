@@ -70,10 +70,10 @@ Individual concerns on dark data will increase in coming days and years. Dark da
 Blockchain ecosystems could be the viable technological intervention in order to protect people’s privacy and data rights. This sort of new technology could be developed in public- private collaboration in order to manage dark data. For example, major data generating activities of TIFAAANG (Twitter, Instagram, Facebook, Apple, Amazon, Alibaba, Netflix, Google) and other corporations can use “blockchain ecosystems'' to keep individuals’ data secured and compensated. Meanwhile, the government could (and should) introduce new rules for blockchain data management and privacy, because the technology has the potential to bridge the trust among all players in the ecosystem: government, businesses and people. 
 
 
-## Author 
-speculative data is a collection of user data generated from a location within the crop circles. They are not a tool of A.I but rather an agency of A.T 
-(Alien Technology). 
-
+---
+<small>
+speculative data is a collection of user data generated from a location within the crop circles. They are not a tool of A.I but rather an agency of A.T (Alien Technology). 
+</small>
 
 ##### Sources:
 

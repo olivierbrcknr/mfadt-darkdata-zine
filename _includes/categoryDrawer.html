@@ -33,38 +33,31 @@
           <div class="categoryDescription">
             {% case category %}
               {% when "Digital Forensics" %}
-                
               <p>
                 In order to combat the practice of dark data, one can exploit the loopholes in its architecture. But in order to do this, we need to at least comprehend the full extent of the information that is collected about us. It is now possible for us to demand the data that is collected about us, though this option  is not directly obvious to most people. Resources like APIs, Google Takeout, and OSINT tools allow us to conduct small-scale investigations with regards to where our data lives and what data exists about us. This section is a collection of attempts by the authors to gain access to and interpret their own data that exists online.<br>
                 However, awareness of the data does not guarantee its control. Google may give us a copy of the data that exists about us in its servers through its Google Takeout service; but this does not mean that that we now own this data. Google can still use it however it likes, it has not been deleted from their databases. We are being given only an illusion of control and this is intentional. Digital Forensics can only grant us a window into this massive machine, the machinations of which may still continue to be unclear. This section explores these windows and what they teach us both about ourselves and about the technology that we utilize.
               </p>
 
               {% when "Dark Connections" %}
-                
               <p>
                The internet is made up of interconnected pieces of data about its users. Every website has trackers installed in it, mostly belonging to Google or Facebook, that keep tabs on the people using it. This data is neither protected or encrypted, often fully accessible to anyone with the means to access it. Though these companies store our data and use it to sell their products to us, they are in no way responsible for it. This entire system is almost always not implicit and shrouded in the background of its utility. This section aims to connect these dots that exist in the dark underbelly of the internet, that we have a vague idea about, but that are not necessarily clear. <br>
                Making these connections can make the online experience feel scary and unsafe, but it already is. Although governments and large corporations are often seen as the problem, the truth is that they are far less interested in you or I than someone who knows us personally and has an agenda that involves us. This section shines a light on the dark patterns that enable your data to be collected and potentially mobilized against your interest.
               </p>
 
               {% when "Data Futures" %}
-                
               <p>
                What is the future of dark data? People are increasingly aware that information about them is collected online. Governments are making efforts to regulate Big Tech and protect the privacy of citizens. How can we imagine better ways to exist in the system? How can we protect ourselves from its repercussions? This section speculates how dark data is changing as a practice. It discusses ways in which people can take action and re-examine their browsing methods. The ideas discussed here think about how technology can be used to propose solutions to the problem it has created.<br>
                It is important to consider that the practice of data collection and exploitation is ongoing. There is no easy way out of these cycles. However, we would like to believe that sparking deliberate thought and action to help you orient yourself in this Wild West landscape can make the process of coming to terms with dark data easier.
               </p>
 
               {% else %}
-
-                This one does not have a description
-            
+                <!-- does not have a description -->
               {% endcase %}
           </div>
     
           <div class="drawerContent-Articles">
-
             {% for article in site.posts %}
               {% if article.categories contains category %}
-        
                 <a href="{{ site.baseurl }}{{ article.url }}" class="drawerArticle">
         
                   <div class="drawerArticle-image">
@@ -82,13 +75,6 @@
                   <h4>
                     by {{ article.author }}
                   </h4>
-        
-                  <!-- Does not seem to be needed so far
-                  {% if article.desc %}
-                    <p> — {{ article.desc | markdownify }}</p>
-                  {% endif %}
-                  -->
-        
                 </a>
               {% endif %}
             {% endfor %}

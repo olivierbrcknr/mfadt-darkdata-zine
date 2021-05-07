@@ -26,7 +26,7 @@ Despite these prevalent issues around facial recognition, the CBP and DHS have p
 
 Although the report doesn't mention the TVS by name, other CBP and DHS documents reveal that it is central to this future vision. The overview for the 2017 Privacy Impact Assessment (PIA) for the TVS describes the larger ambitions of the program:
 
->"By partnering with stakeholders on a voluntary basis and using biometric technologies, CBP is facilitating a large-scale transformation of air travel that will make air travel more: (1) secure, . . . (2) predictable, . . . and (3) able to build additional integrity to the immigration system."[^9]
+"By partnering with stakeholders on a voluntary basis and using biometric technologies, CBP is facilitating a large-scale transformation of air travel that will make air travel more: (1) secure, . . . (2) predictable, . . . and (3) able to build additional integrity to the immigration system."[^9]
 
 According to ACLU senior policy analyst Jay Stanley, the TVS is the first step of a “very specific, clear and well-defined pathway” towards “a much broader implementations of face surveillance at the airport".[^10] Formulations of this pathway can be found across public documents by CBP and DHS. One document by the Transportation Security Administration (TSA), another agency of the DHS, lays out the broad vision for expanding the use of biometrics in airports, starting with international travelers, then expanding to TSA PreCheck members, and finally to all domestic travelers.[^11]
 
@@ -38,7 +38,7 @@ Another development in the works is the capabilities of the facial recognition t
 
 Putting all of this together, this vision of airport security and facial recognition seems quite bleak. As Jay Stanley puts it:
 
-> "It hardly takes a paranoid flight of fancy to foresee this program morphing into something far more comprehensive and dystopian— a world where face recognition is used throughout our public spaces to scrutinize our identity, record our movements, and create a world where everyone is constantly watched."[^18]
+ "It hardly takes a paranoid flight of fancy to foresee this program morphing into something far more comprehensive and dystopian— a world where face recognition is used throughout our public spaces to scrutinize our identity, record our movements, and create a world where everyone is constantly watched."[^18]
 
 The paranoid flight of fancy I'm taken on by all of this leads me towards an airport that is characterized by a state of total surveillance, where information is extracted out of people constantly, passively, simply as a precondition of being at the airport, and without necessarily them knowing about it or consenting to it. Reflecting on my own experience as a traveler and immigrant to the U.S. coming from Turkey, it doesn't feel too far off, as I've often felt like I've had to provide information about myself and open myself to scrutiny without much of a choice.
 
@@ -58,30 +58,31 @@ If you still have doubts whether the TVS will expand and calcify into something 
 
 ---
 
+small
 [Ege Uz](https://egeuz.com/) is a second year MFADT student. He likes the Internet, and dislikes airports.
+/small
 
-
-[^1]: U.S. Customs and Border Protection. "CBP Trade and Travel Report Fiscal Year 2020." February 2021. <[https://www.cbp.gov/sites/default/files/assets/documents/2021-Feb/CBP-FY2020-Trade-and-Travel-Report.pdf](https://www.cbp.gov/sites/default/files/assets/documents/2021-Feb/CBP-FY2020-Trade-and-Travel-Report.pdf)>
-[^2]: U.S. Department of Homeland Security. "Privacy Impact Assessment for the Traveler Verification Service." November 14, 2018. <[dhs.gov/sites/default/files/publications/privacy-pia-cbp056-tvs-february2021.pdf](http://dhs.gov/sites/default/files/publications/privacy-pia-cbp056-tvs-february2021.pdf)>
+[^1]: U.S. Customs and Border Protection. "CBP Trade and Travel Report Fiscal Year 2020." February 2021. [https://www.cbp.gov/sites/default/files/assets/documents/2021-Feb/CBP-FY2020-Trade-and-Travel-Report.pdf](https://www.cbp.gov/sites/default/files/assets/documents/2021-Feb/CBP-FY2020-Trade-and-Travel-Report.pdf)
+[^2]: U.S. Department of Homeland Security. "Privacy Impact Assessment for the Traveler Verification Service." November 14, 2018. [dhs.gov/sites/default/files/publications/privacy-pia-cbp056-tvs-february2021.pdf](http://dhs.gov/sites/default/files/publications/privacy-pia-cbp056-tvs-february2021.pdf)
 [^3]: ibid.,
 [^4]: CBP. "CBP Trade and Travel Report."
-[^5]: Riley, Duncan. "CBP facial recognition technology fails to find anyone using false identities at airports." *Silicon Angle.* <[https://siliconangle.com/2021/02/14/cbp-facial-recognition-technology-fails-find-anyone-using-false-identities-airports/](https://siliconangle.com/2021/02/14/cbp-facial-recognition-technology-fails-find-anyone-using-false-identities-airports/)>
+[^5]: Riley, Duncan. "CBP facial recognition technology fails to find anyone using false identities at airports." *Silicon Angle.* [https://siliconangle.com/2021/02/14/cbp-facial-recognition-technology-fails-find-anyone-using-false-identities-airports/](https://siliconangle.com/2021/02/14/cbp-facial-recognition-technology-fails-find-anyone-using-false-identities-airports/)
 [^6]: CBP. "CBP Trade and Travel Report."
 [^7]: DHS. "Privacy Impact Assessment for the Traveler Verification Service." November 14, 2018.
 [^8]: ibid.,
-[^9]: U.S. Department of Homeland Security. "Privacy Impact Assessment for the Traveler Verification Service." May 15, 2017. <[https://www.dhs.gov/sites/default/files/publications/privacy-pia-cbp030-tvs-may2017.pdf](https://www.dhs.gov/sites/default/files/publications/privacy-pia-cbp030-tvs-may2017.pdf)>
-[^10]:. Stanley, Jay. "U.S. Customs and Border Protection's Airport Face Recognition Program." *ACLU.* <[https://www.aclu.org/other/aclu-white-paper-cbps-airport-face-recognition-program](https://www.aclu.org/other/aclu-white-paper-cbps-airport-face-recognition-program)>
-[^11]: Transport Security Administration. "TSA Biometrics Roadmap For Aviation Security & The Passenger Experience". <[https://www.tsa.gov/sites/default/files/tsa_biometrics_roadmap.pdf](https://www.tsa.gov/sites/default/files/tsa_biometrics_roadmap.pdf)>
+[^9]: U.S. Department of Homeland Security. "Privacy Impact Assessment for the Traveler Verification Service." May 15, 2017. [https://www.dhs.gov/sites/default/files/publications/privacy-pia-cbp030-tvs-may2017.pdf](https://www.dhs.gov/sites/default/files/publications/privacy-pia-cbp030-tvs-may2017.pdf)
+[^10]:. Stanley, Jay. "U.S. Customs and Border Protection's Airport Face Recognition Program." *ACLU.* [https://www.aclu.org/other/aclu-white-paper-cbps-airport-face-recognition-program](https://www.aclu.org/other/aclu-white-paper-cbps-airport-face-recognition-program)
+[^11]: Transport Security Administration. "TSA Biometrics Roadmap For Aviation Security & The Passenger Experience". [https://www.tsa.gov/sites/default/files/tsa_biometrics_roadmap.pdf](https://www.tsa.gov/sites/default/files/tsa_biometrics_roadmap.pdf)
 [^12]: DHS. "Privacy Impact Assessment for the Traveler Verification Service." November 14, 2018. p. 2.
 [^13]: ibid., pp. 7-8.
 [^14]: ibid., p. 48.
-[^15]: "Air / CBP Biometrics". *U.S. Customs and Border Protection. <[https://biometrics.cbp.gov/air](https://biometrics.cbp.gov/air)>
+[^15]: "Air / CBP Biometrics". *U.S. Customs and Border Protection. [https://biometrics.cbp.gov/air](https://biometrics.cbp.gov/air)
 [^16]: ibid., p. 11.
 [^17]: ibid., p.18
 [^18]: Stanley. "U.S. Customs and Border Protection's Airport Face Recognition Program." 
 [^19]: DHS. "Privacy Impact Assessment for the Traveler Verification Service." May 15, 2017. p. 2
 [^20]: ibid., p. 2
-[^21]: "CBP and Privacy Groups Discuss Biometric Entry-Exit Mandate." *U.S. Customs and Border Protection.* December 4, 2019. <[https://www.cbp.gov/newsroom/national-media-release/cbp-and-privacy-groups-discuss-biometric-entry-exit-mandate](https://www.cbp.gov/newsroom/national-media-release/cbp-and-privacy-groups-discuss-biometric-entry-exit-mandate)>
-[^22]: U.S. Department of Homeland Security. "Privacy Impact Assessment for the Automated Biometric Identification System." July 31, 2006. <[https://dhs.gov/sites/default/files/publications/privacy_pia_usvisit_ident_final](www.dhs.gov/xlibrary/assets/privacy/privacy_pia_usvisit_ident_final.pdf)>
+[^21]: "CBP and Privacy Groups Discuss Biometric Entry-Exit Mandate." *U.S. Customs and Border Protection.* December 4, 2019. [https://www.cbp.gov/newsroom/national-media-release/cbp-and-privacy-groups-discuss-biometric-entry-exit-mandate](https://www.cbp.gov/newsroom/national-media-release/cbp-and-privacy-groups-discuss-biometric-entry-exit-mandate)
+[^22]: U.S. Department of Homeland Security. "Privacy Impact Assessment for the Automated Biometric Identification System." July 31, 2006. [https://dhs.gov/sites/default/files/publications/privacy_pia_usvisit_ident_final](www.dhs.gov/xlibrary/assets/privacy/privacy_pia_usvisit_ident_final.pdf)
 [^23]: Department of Homeland Security. "USCIS Form I-130: Petition for Alien Relative."
-[^24]: "2018 Traffic Data for U.S Airlines and Foreign Airlines U.S. Flights." *Bureau of Transportation Statistics.* April 30, 2020. <[https://www.bts.dot.gov/newsroom/2018-traffic-data-us-airlines-and-foreign-airlines-us-flights](https://www.bts.dot.gov/newsroom/2018-traffic-data-us-airlines-and-foreign-airlines-us-flights)>
+[^24]: "2018 Traffic Data for U.S Airlines and Foreign Airlines U.S. Flights." *Bureau of Transportation Statistics.* April 30, 2020. [https://www.bts.dot.gov/newsroom/2018-traffic-data-us-airlines-and-foreign-airlines-us-flights](https://www.bts.dot.gov/newsroom/2018-traffic-data-us-airlines-and-foreign-airlines-us-flights)

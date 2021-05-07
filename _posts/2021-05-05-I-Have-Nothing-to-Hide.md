@@ -42,8 +42,9 @@ The National Social Registry in it’s proposed form will hold a lot more data a
 
 --- 
 
+<small>
 Salil Parekh is a student at The New School. He writes often, but scarcely publishes. 
-
+</small>
 
 [^1]: <https://www.tribuneindia.com/news/archive/nation/rs-500-10-minutes-and-you-have-access-to-billion-aadhaar-details-523361>
 [^2]: <https://www.deccanherald.com/content/652335/fir-filed-against-tribune-over.html>

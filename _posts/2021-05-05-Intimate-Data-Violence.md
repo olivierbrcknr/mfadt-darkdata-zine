@@ -35,7 +35,7 @@ The fight against stalkerware is complex. These apps are legal because there is 
 
 ## What Can We do?
 
-There is no simple answer to the complexities of stalkerware. Eva Galperin is the Director of Cybersecurity at the Electronic Frontier Foundation and a person who dedicates much of her time to the eradication of stalkerware. She has convinced anti-virus companies such as Kaspersky to notify the user if malware is detected in their device, but Kaspersky does not automatically erase the malware, since the nature of domestic violence makes it difficult to wipe a device without the knowledge of the abuser. If the abuser notices the erasure then it is likely that the abuse will escalate and become likely even more dangerous for the victim. [^2]
+There is no simple answer to the complexities of stalkerware. Eva Galperin is the Director of Cybersecurity at the Electronic Frontier Foundation and a person who dedicates much of her time to the eradication of stalkerware. She has convinced anti-virus companies such as Kaspersky to notify the user if malware is detected in their device, but Kaspersky does not automatically erase the malware, since the nature of domestic violence makes it difficult to wipe a device without the knowledge of the abuser. If the abuser notices the erasure then it is likely that the abuse will escalate and become likely even more dangerous for the victim.[^2]
 
 In a wider scope, since it is difficult to convict an abuser of these cyber crimes due to lack of regulation, as well as the intricacies of the process of detecting and safely removing malware without putting the victim at more risk, it is hard to imagine a clear solution to this issue. One possible solution is companies like Apple and Google prohibiting any distribution of stalkerware in their markets, but the deep web is still lively alongside the developers of these tools, and it is likely that there are ways to surpass blocking efforts by big tech corporations.
 
@@ -45,7 +45,9 @@ If you have suspicions that you have a stalker who installed stalkerware on your
 
 ---
 
+<small>
 Malath Kamaluldeen is a third year BFA Design and Technology student and an advocate for the abolition of invasive technology practices. You can reach her through [Twitter](https://twitter.com/iraqinancyajram) or [Github](https://github.com/malathk).
+</small>
 
 [^1]: “Laws.” _Coalition Against Stalkerware_, 24 Nov. 2019, <www.stopstalkerware.org/state-laws/>. 
 [^2]: TEDtalksDirector. “What You Need to Know about Stalkerware / Eva GALPERIN,” March 30, 2020. <www.youtube.com/watch?v=xzWFrHHTrs8>. 
