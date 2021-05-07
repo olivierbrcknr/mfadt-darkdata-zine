@@ -18,6 +18,12 @@ After receiving my information back from google, I sat down and laid out all of 
 
 Tracking data using a non-digital means has become a meditative act for me. I have developed both color coded and my own personal code consisting of a combination of specific stitches for each character.  Developing a personal cipher is made easier by the precedents of code craft. While I use a combination of stitch sequences for my cipher the knitters of WW2 often used the knit and pearl to hide morse code in. With such a simple act, data is protected better than any security software. Each day I sit down and think about how I will encrypt my data as well as create a physical object to bring me comfort along with the peace of mind. I am suddenly aware of the true depth of my data when I look at the pile of crocheted information becoming larger and larger. The same data that has been collected ,willingly or unwillingly, for most of my developmental years. The first piece I crocheted was a doily containing my date of birth. I really enjoyed it. This practice is easy to pick up and recommended. Anyone can pick up a crochet hook, or knitting needle and create a cipher of their own. This personal cipher replaces the power back into the hands of the person not the corporation. Below, is my date of birth doily to exemplify just one of the possibilities for secure data storage.
 
+![]( {{ site.baseurl }}/assets/img/crocheting/crocheting_3.jpg )
+![]( {{ site.baseurl }}/assets/img/crocheting/crocheting_1.jpg )
+![]( {{ site.baseurl }}/assets/img/crocheting/crocheting_2.jpg )
+
+
+
 [^1]:Natalie Zarrelli, “The Wartime Spies Who USED Knitting as an Espionage Tool,” April 15, 2021, <https://www.atlasobscura.com/articles/knitting-spies-wwi-wwii>.
 
 [^2]:Amy Suo Wu and Clementine Edwards, A Cookbook of Invisible Writing (Eindhoven: Onomatopee, 2019).

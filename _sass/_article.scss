@@ -27,6 +27,9 @@ article {
       max-height: 600px;
     }
   }
+  img + img {
+    margin-top: 1rem;
+  }
 
   caption {
     @include caption;
