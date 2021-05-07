@@ -5,10 +5,12 @@ categories: ["Digital Forensics"]
 image: "googleTakeout/ThumbGoogleTakeout.gif"
 ---
 
-<iframe 
-    src="{{ site.baseurl }}/assets/img/googleTakeout/googleTakeout.pdf" 
+<iframe
+    src="{{ site.baseurl }}/assets/img/googleTakeout/googleTakeout.pdf"
     class="submission_googleTakeout">
 </iframe>
+
+You can also [download the PDF here]( {{ site.baseurl }}/assets/img/googleTakeout/googleTakeout.pdf ).
 
 ---------------
 
